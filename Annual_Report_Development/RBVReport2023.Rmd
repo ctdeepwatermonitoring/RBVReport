@@ -1,0 +1,336 @@
+---
+title: "2023 RBV Program Report"
+fontsize: 11pt
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    number_sections: no
+    css: style.css
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+library(stringr)
+library(dplyr)
+library(leaflet)
+library(sf)
+library(DT)
+```
+<div class = "section">
+
+[![](rbv_header.png){width=2000px}](https://portal.ct.gov/deep/water/inland-water-monitoring/riffle-bioassessment-by-volunteers-rbv)
+
+# 2023 RBV Program Report: 25 Years of RBV Sampling!
+
+<div style="float: right; margin-left: 10px;">
+<img src="perlidae.jpg" style="width: 150px;">
+<p class = "caption">Common stonefly (Perlidae)</p>
+</div>
+
+<i>Report Last Updated: `r format(Sys.Date(), '%B %Y')`</i>
+
+Connecticut is fortunate to be a water-rich state, home to over 7,772 miles of rivers and streams. One of the [CT DEEP Monitoring and Assessment Program’s (MAP)](https://portal.ct.gov/deep/water/inland-water-monitoring/water-quality-monitoring-program) primary tasks is to conduct water quality monitoring to evaluate the physical, chemical and biological conditions of all waters in the State as part of Clean Water Act (CWA) requirements. Given limited staff resources, this wealth of water resources presents a challenge to achieve this CWA goal. One way MAP has enhanced assessments is by utilizing citizen scientist data to work towards this goal. 
+
+In 1999, the MAP developed a citizen science program, called the [Riffle Bioassessment by Volunteers (RBV) Program](https://portal.ct.gov/deep/water/inland-water-monitoring/riffle-bioassessment-by-volunteers-rbv), where trained volunteers collect benthic macroinvertebrate data from wadeable streams. 2023 marked the 25th consecutive sampling year for RBV program data. **Thank you all for your hard work over these past 25 years - we would not be here without you!**
+
+<br>
+
+![](reportphoto5.png)
+<div class = "caption">Above: Harris Brook during fall 2023 RBV sampling in Salem, CT. Photo courtesy of the Salmon River Watershed Partnership. </div>
+
+<hr>
+
+## A Hunt for CT’s Healthiest Streams! 
+
+The CT DEEP Riffle Bioassessment by Volunteers or “RBV” Program is an annual fall ‘treasure hunt’ for Connecticut’s healthiest streams.  CT DEEP uses the data collected by RBV volunteers to expand its inventory of excellent small, high gradient Connecticut streams that have excellent water quality – our “Healthy Streams” list.  
+
+RBV volunteers examine the water quality of local stream segments by studying the aquatic benthic macroinvertebrate community present in rocky or ‘riffle’ areas of these streams.  If volunteers can find four or more pollution sensitive or ‘most wanted’ macroinvertebrates, CT DEEP can use this data to assess that stream as fully supporting water quality standards for aquatic life use – documenting it as one of CT’s healthiest streams!  
+
+Because it is a screening approach and not a more in-depth assessment methodology, RBV cannot provide a detailed water quality assessment, nor can it be used to identify low or impaired water quality.
+
+![](reportphoto7.png)
+
+<div class = "caption">Above left: volunteers sampling at Ransom Brook, Salem. Above right: volunteers sampling at East Meadow Brook, Woodbury. Photos courtesy of the Three Rivers Community College and the Pomperaug River Watershed Coalition. </div>
+
+<hr>
+
+## 2023 Local RBV Programs & Leaders 
+
+Local RBV Programs ensure that the statewide RBV program is a success each year.  Local RBV Coordinators put countless hours into organizing their programs, communicating with DEEP, recruiting and training volunteers, and more.   
+
+
+```{r groups, echo=FALSE}
+groups <- read.csv("groups.csv", header = TRUE) #this needs to be manually updated with new groups
+
+knitr::kable(groups, col.names = gsub("[.]", " ", names(groups)), table.attr = "class=\"striped\"", format = "html")
+```
+<p></p>
+
+<div class = "section">
+
+<div style="float: left; margin-right: 10px;">
+<img src="jeanpillo.jpg" style="width: 200px;">
+<p class = "caption">Jean Pillo with TLGV volunteers</p>
+</div>
+
+### Thank you Jean!
+
+Congratulations to Jean Pillo on your well-deserved retirement! Jean Pillo has been focusing on water quality issues since 2006, when she joined the National Heritage Corridor and began partnering with the Eastern Connecticut Conservation District. 
+
+Jean's work as The Last Green Valley Volunteer Water Quality Monitoring Coordinator has been integral to the success of the RBV program in Northeastern Connecticut. Thank you for all your hard work over these many years!
+
+</div>
+<br><br><br><br>
+
+<hr>
+
+## 2023 Monitoring Results
+
+The 2023 RBV monitoring program faced numerous challenges, including CT DEEP staffing changes, near-record breaking amounts of rainfall, and corresponding high flows.  Despite less than ideal sampling conditions, the program continued to have a positive impact and contributed meaningful data to the Department of Energy and Environmental Protection.  
+
+RBV volunteers collected **59** vouchers from **55** unique locations on **53** different waterbodies. **30 (51%)** of the 2023 monitoring vouchers had 4 or more taxa types in the ‘most wanted’ category, indicating that these stream segments are among Connecticut’s healthiest streams.   
+
+
+### Table 1: Summary of Results
+
+```{r summary, echo=FALSE}
+summary <- read.csv("summary.csv", check.names = FALSE) #this needs to be manually updated, adopted from old report format
+
+knitr::kable(summary,  table.attr = "class=\"striped\"", format = "html")
+```
+
+<br>
+
+![](reportphoto2.jpg)
+<div class = "caption">Above: volunteers receiving training at Salmon Brook, East Granby. Photo courtesy of the Farmington River Watershed Association. </div>
+
+### 2023 Results Map
+
+This **interactive** map depicts the number of ‘Most Wanted’ macroinvertebrate types present in RBV voucher samples from only 2023 samples.  Mouse over the site icon to see the monitoring ID, waterbody name, and count of most wanted taxa. To open the full-screen map, click [here](RBVmap2023.html).
+
+Sites are assessed to be ‘healthy’ (<span class = "star">★</span>) if 4 or more ‘most wanted’ macroinvertebrate taxa were present.  View the full [Volunteer Monitoring Mapping Application](https://ctdeep.maps.arcgis.com/apps/MapSeries/index.html?appid=9265f117579546678b70ff9dbd6d0854) to see the results from all 25 years of monitoring.
+
+```{r map, echo=FALSE}
+data <- read.csv("RBV_Summary_2023.csv") #this will need to be updated to 2024, generated from metrics script
+sites <- read.csv("awx_stations_webservice.csv") #this needs to be the latest version of the awx stations
+data <- merge(data, sites, by = "AWQ..Station")
+
+rivers <- read_sf(dsn = ".", layer = "CT_305b_Assessed_River_2022")
+rivers <- st_transform(rivers, crs = 4326) #this was giving me some funky errors
+
+fullaql <- rivers %>% 
+  filter(CT2022_A_1 == "Fully Supporting")
+
+bad <- rivers %>% 
+  filter(CT2022_A_1 == "Not Supporting") 
+
+CT <- read_sf(dsn = ".", layer = "cb_2022_us_state_500k")
+CT <- subset(CT, CT$STUSPS == "CT")
+CT <- st_transform(CT, crs = 4326)
+
+circle <- makeIcon(
+  iconUrl = "circle marker.png", # Replace with actual URL or path to the icon
+  iconWidth = 18, iconHeight = 18
+)
+
+yellow_star <- makeIcon(
+  iconUrl = "map marker.png", # Replace with actual URL or path to the icon
+  iconWidth = 25, iconHeight = 25
+)
+
+data$icon <- ifelse(data$RBV_most_wanted_count <= 3, "circle", "yellow_star")
+
+data_black_circle <- data %>% filter(icon == "circle")
+data_yellow_star <- data %>% filter(icon == "yellow_star")
+
+legend_labels <- c("Sites with 3 or less MW", "Sites with 4+ MW", "Rivers supporting full AQL", "Impaired rivers for AQL")
+legend_colors <- c("#0D2D6C", "#F2AB19", "#00AAE7", "darkred")
+
+leaflet(options = leafletOptions(minZoom = 8, maxZoom = 16)) %>%
+  setView(lng = -72.67538926977987, lat = 41.69518097729522, zoom = 8) %>%
+  addTiles(group = 'Open Street Map') %>%
+  addProviderTiles('Esri.WorldImagery', group = "World Imagery") %>%
+  addProviderTiles("Esri.WorldGrayCanvas", group = "Esri GrayCanvas (default)") %>%
+  addPolylines(data = fullaql, color = "#00AAE7", label = ~ASSESSME_1, opacity = 1, weight = 1.5, group = "Rivers") %>%
+  addPolylines(data = bad, color = "darkred", label = ~ASSESSME_1, opacity = 1, weight = 1.5, group = "Rivers") %>%
+  addPolylines(data = CT, color = "black", opacity = 1, weight = 1.5) %>%
+  addMarkers(
+    data = data_black_circle,
+    ~xlong,
+    ~ylat,
+    icon = circle,
+    label = ~paste(AWQ..Station, ": ", WaterbodyName.x, ", MW Count: ", RBV_most_wanted_count, sep = ""),
+    labelOptions = labelOptions(permanent = FALSE),
+    group = 'Sites with 3 or less MW'
+  ) %>%
+  addMarkers(
+    data = data_yellow_star,
+    ~xlong,
+    ~ylat,
+    icon = yellow_star,
+    label = ~paste(AWQ..Station, ": ", WaterbodyName.x, ", MW Count: ", RBV_most_wanted_count,sep = ""),
+    labelOptions = labelOptions(permanent = FALSE),
+    group = 'Sites with 4+ MW'
+  ) %>%
+  addLegend(
+    position = "bottomright",
+    colors = legend_colors,
+    labels = legend_labels,
+    title = "Legend"
+  ) %>%
+  addLayersControl(
+    baseGroups = c('Esri GrayCanvas (default)', 'Open Street Map', 'World Imagery'),
+    overlayGroups = c('Sites with 3 or less MW', 'Sites with 4+ MW', 'Rivers'),
+    options = layersControlOptions(collapsed = FALSE)
+  )
+```
+
+### Table 2: Most Wanted Counts
+
+This table provides a list of most wanted counts by site. The table is sorted according to waterbody name, site ID, and then the date the sample was collected.
+
+A detailed list of all monitoring sites, most wanted counts and the complete RBV taxa list for each can be downloaded from the [Water Quality Portal](https://www.waterqualitydata.us/).
+
+```{r summarybysite, echo=FALSE, out.width="100%"}
+summarybysite <- read.csv("summarybysite_code.csv") #from rbv metrics script
+
+summarybysite$Station.ID <- as.character(summarybysite$Station.ID)
+summarybysite$Most.Wanted.Count <- as.character(summarybysite$Most.Wanted.Count)
+
+datatable(head(summarybysite, 59), colnames = gsub("[.]", " ", names(summarybysite)), options = list(
+  pageLength = 10, lengthChange = FALSE,
+  lengthMenu = c(20)
+))
+```
+
+<br>
+
+![](reportphoto6.png)
+
+<div class = "caption">Above left: volunteers sampling at Indian Meadow Brook, Winchester. Above right: volunteers sampling at Railroad Brook, Vernon. Photos courtesy of the Farmington River Watershed Association and the Vernon Conservation Commission. </div>
+
+<hr>
+
+## Interpreting Your Results 
+
+Refer to Table 3 for guidance on how to interpret your monitoring results. 
+
+### Table 3: Interpretation of RBV Results by Most Wanted Count
+
+<table border="2" style="border-collapse: collapse; border-color: black;">
+  <tr style="background-color: #0D2D6C; color: white; text-align: center;">
+    <td style="font-size: 14px; padding: 8px; border: 2px solid black;"># ‘Most Wanted’ Taxa</td>
+    <td style="font-size: 28px; padding: 8px; border: 2px solid black;">What Does it Tell Us?</td>
+  </tr>
+  <tr style="background-color: #23AE49; color: white;">
+  <td style="font-size: 26px; text-align: center; border: 2px solid black;">4+</td>
+  <td style =" padding: 8px; border: 2px solid black;"><b><i>Excellent!!  Lots of very sensitive macroinvertebrate types were present – you found a healthy stream segment!</b></i>
+  <br>
+  <br>
+This is a very clear signal of excellent water quality as the ‘Most Wanted’ types cannot survive in degraded streams or otherwise low water quality conditions.  
+<br>
+<b>DEEP Assessment Decision:</b> The stream containing the monitoring location will be considered for ‘Fully Supporting’ State aquatic life use standards.  Fully supporting streams or stream segments will be listed in the next Integrated Water Quality Report (IWQR) and added to the DEEP’s running list of miles of Healthy Waters assessed.  
+<br>
+<b>Recommended Volunteer Follow-Up Action:</b>  Revisit every 2 to 5 years to continue documenting the excellent health of this stream. 
+</td>
+  </tr>
+  <tr style="background-color: #FDB515; color: white;">
+    <td style="font-size: 26px; text-align: center; border: 2px solid black;">3</td>
+     <td style =" padding: 8px; border: 2px solid black;"><b><i>A Very Good Sign – Keep this Site on Your Radar! </b></i>
+    <br><br>
+Three Most Wanted or very sensitive macroinvertebrate types in a sample is a strong signal of good to excellent water quality.   Although three most wanted is not statistically enough data for DEEP to list the site as a healthy stream segment this time, this is a great find!
+<br><br>
+<b>DEEP Assessment Decision:</b> No Assessment Made… but consider trying again! 
+<br><br>
+<b>Recommended Volunteer Follow-Up Action:</b>  If this was the first time the site was monitored with RBV, this site should be a high priority candidate for next season.  
+</td>
+
+  </tr>
+  <tr style="background-color: #00AAE7; color: #0D2D6C;">
+    <td style="font-size: 26px; text-align: center; border: 2px solid black;">0-2</td>
+     <td style =" padding: 8px; border: 2px solid black;"><b><i>Double check whether this is a good spot to be using the RBV method… </b></i>
+    <br><br>
+More information is needed to determine the water quality at this site.  Reasons for few most wanted could include poor water quality; however, few most wanted types should not be interpreted as a proof of degraded conditions.  Other factors such as unusual flow conditions and lack of adequate habitat can also result in few most wanted types despite overall good water quality.
+<br><br>
+<b>DEEP Assessment Decision:</b> No Assessment Made
+<br><br>
+<b>Recommended Volunteer Follow-Up Action:</b>   Discuss with the State RBV Coordinator whether you should revisit this site in future monitoring seasons.  
+</td>
+  </tr>
+</table>
+
+<hr>
+
+## 2023 RBV Data Impact
+
+The 2023 RBV results will be consolidated into the 2026 [Integrated Water Quality Report](https://portal.ct.gov/deep/water/water-quality/water-quality-305b-report-to-congress).  A ‘healthy’ river or stream is one that fully supports a variety of uses, including aquatic life use.   
+
+In 2023, RBV volunteers monitored 53 waterbodies in Connecticut.  Based on the results reported in the previous section, RBV data is likely to generate **9 new listings** of Connecticut waterbodies that fully support aquatic life use: 
+
+1. NNT to Bunnell Brook	(Burlington)
+
+2. NNT to Farmington Rivern (Barkhamsted)
+
+3. Fraser Brook	(Salem)
+
+4. NNT to Salmon River (East Hampton)
+
+5. Conantville Brook	(Mansfield)
+
+6. Scranton Brook	(Union)
+
+7. Safford Brook	(Woodstock)
+
+8. Peake Brook	(Woodstock)
+
+9. Little Dam Tavern Brook	(Putnam)
+
+<br>
+
+![](reportphoto1.jpg)
+
+<div class = "caption">Above: volunteers taking RBV samples in Wood Creek, Bethlehem. Photo courtesy of the Pomperaug River Watershed Coalition. </div>
+
+<hr>
+
+## Appendices {.tabset}
+
+### Appendix A: Monitoring Station Details 
+
+```{r sites, echo=FALSE, out.width="100%"}
+
+sites <- read.csv("sites.csv") #adapted from upload_stations from metrics script
+
+sites$Station.ID <- as.character(sites$Station.ID)
+sites$Municipality <- str_to_title(sites$Municipality)
+
+datatable(head(sites, 59), colnames = gsub("[.]", " ", names(sites)), options = list(
+  pageLength = 10, lengthChange = FALSE,
+  lengthMenu = c(20)
+))
+```
+
+### Appendix B: Most Wanted Taxa by Site
+
+This table provides a list of all the "most wanted" taxa found at each site. The table is sorted according to waterbody name, site ID, and then the date the sample was collected. A full list of all taxa found at each site can be downloaded from the [Water Quality Portal](https://www.waterqualitydata.us/).
+
+
+```{r mwbysite, echo=FALSE, out.width="100%"}
+mwbysite <- read.csv("RBV_MostWantedBySite_2023.csv") #from metrics script, update to 2024
+
+mwbysite$Station.ID <- as.character(mwbysite$Station.ID)
+
+datatable(head(mwbysite, 213), colnames = gsub("[.]", " ", names(mwbysite)), options = list(
+  pageLength = 20, lengthChange = FALSE,
+  lengthMenu = c(20)
+))
+```
+
+### Appendix C: Presence/Absence of RBV Taxa by Site
+
+To download this supplementary table, click [here](presence_absence_report.xlsx). Samples are sorted by waterbody name, site ID and then monitoring date.  ‘Most Wanted’ taxa confirmed present in the voucher are noted with an “X”.  Column numbers correspond to the RBV macroinvertebrate organism ID number on the [RBV ID cards](https://portal.ct.gov/-/media/deep/water/volunteer_monitoring/rbv/rbv-macroinvertebrateidcards.pdf) and [datasheet](https://portal.ct.gov/sitecore/content/portal/DEEP/Water/Inland-Water-Monitoring//-/media/deep/water/volunteer_monitoring/rbv/rbv-fielddatasheet.pdf).  
+
+
+
+Bold font indicates a site at which four or more ‘Most Wanted’ RBV taxa types were present in the voucher. There are 17 possible most wanted taxa; each miscellaneous small stonefly taxa present (up to 6 types) count as one ‘Most Wanted’ taxa type.  The site with the greatest number of ‘Most Wanted’ taxa types is highlighted in green. 

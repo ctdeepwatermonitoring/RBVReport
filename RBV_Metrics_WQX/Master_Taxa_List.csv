@@ -1,4 +1,4 @@
-﻿DEEPTaxaID,finalID,SUPERPHYLUM,PHYLUM,SUBPHYLUM,INFRAPHYLUM,SUPERCLASS,CLASS,SUBCLASS,INFRACLASS,SUPERORDER,ORDER,SUBORDER,INFRAORDER,SUPERFAMILY,FAMILY,SUBFAMILY,TRIBE,SUBTRIBE,GENUS,SPECIES,Synonym,FFG
+DEEPTaxaID,finalID,SUPERPHYLUM,PHYLUM,SUBPHYLUM,INFRAPHYLUM,SUPERCLASS,CLASS,SUBCLASS,INFRACLASS,SUPERORDER,ORDER,SUBORDER,INFRAORDER,SUPERFAMILY,FAMILY,SUBFAMILY,TRIBE,SUBTRIBE,GENUS,SPECIES,Synonym,FFG
 1,Adicrophleps hitchcocki,,Arthropoda,,,,Insecta,,,,Trichoptera,,,,Brachycentridae,,,,Adricrophleps,hitchcocki,,SHR
 2,Alloperla usa,,Arthropoda,,,,Insecta,,,,Plecoptera,,,,Chloroperlidae,,,,Alloperla,usa,,C-G
 3,Ameletus lineatus,,Arthropoda,,,,Insecta,,,,Ephemeroptera,,,,Ameletidae,,,,Ameletus,lineatus,Ameletus lineatus,C-G
@@ -1142,3 +1142,19 @@
 1225,Tyrrellia,,Arthropoda,Chelicerata,,,Arachnida,Acari,,Acariformes,Trombidiformes,,,,Limnesiidae,,,,Tyrrellia,,,
 1226,Baetis bicaudatus,,Arthropoda,Hexapoda,,,Insecta,,,,Ephemeroptera,,,,Baetidae,,,,Baetis,Baetis bicaudatus,,C-G
 1227,Cordulegaster obliqua,,Arthropoda,Hexapoda,,,Insecta,,,,Odonata,Anisoptera,,,Cordulegastridae,,,,Cordulegaster,Cordulegaster obliqua,,PRD
+1229,Amiocentrus aspilus,,Arthropoda,Hexapoda,,,Insecta,Pterygota,Neoptera,,Trichoptera,,,,Brachycentridae,,,,Amiocentrus,Amiocentrus aspilus,,
+1230,Anax,,Arthropoda,Hexapoda,,,Insecta,,,,Odonata,Anisoptera,,,Aeshnidae,,,,Anax,sp.,,PRD
+1231,Bothrioneurum vejdovskyanum,,Annelida,,,,Clitellata,Oligochaeta,,,Tubificida,,,,Naididae,,,,Bothrioneurum,Bothrioneurum vejdovskyanum,,
+1232,Corydalus,,Arthropoda,Hexapoda,,,Insecta,Pterygota,Neoptera,Neuropterida,Megaloptera,,,,Corydalidae,Corydalinae,,,Corydalus,sp.,,PRD
+1233,Enochrus,,Arthropoda,Hexapoda,,,Insecta,Pterygota,Neoptera,,Coleoptera,Polyphaga,,,Hydrophilidae,,,,Enochrus,sp.,,
+1234,Faxonius,,Arthropoda,Crustacea,,,Malacostraca,Eumalacostraca,,Eucarida,Decapoda,Pleocyemata,Astacidea,Astacoidea,Cambaridae,,,,Faxonius,sp.,,
+1235,Gomphus (Gomphurus),,Arthropoda,Hexapoda,,,Insecta,,,,Odonata,Anisoptera,,,Gomphidae,,,,Gomphurus,sp.,,PRD
+1236,Helocombus,,Arthropoda,Hexapoda,,,Insecta,Pterygota,Neoptera,,Coleoptera,Polyphaga,,,Hydrophilidae,,,,Helocombus,sp.,,
+1237,Heterotrissocladius marcidus group,,Arthropoda,Hexapoda,,,Insecta,,,,Diptera,Nematocera,,,Chironomidae,Orthocladiinae,,,Heterotrissocladius,Heterotrissocladius marcidus gr.,,C-G
+1238,Malirekus,,Arthropoda,Hexapoda,,,Insecta,Pterygota,Neoptera,,Plecoptera,,,,Perlodidae,,,,Malirekus,sp.,,PRD
+1239,Myxosargus,,Arthropoda,Hexapoda,,,Insecta,,,,Diptera,Brachycera,,,Stratiomyidae,,,,Myxosargus,sp.,,
+1240,Odontomesa,,Arthropoda,Hexapoda,,,Insecta,,,,Diptera,Nematocera,,,Chironomidae,Prodiamesinae,,,Odontomesa,sp.,,
+1241,Protoplasa,,Arthropoda,Hexapoda,,,Insecta,,,,Diptera,Nematocera,,,Tanyderidae,,,,Protoplasa,sp.,,C-G
+1242,Pseudostenophylax,,Arthropoda,Hexapoda,,,Insecta,Pterygota,Neoptera,,Trichoptera,,,,Limnephilidae,,,,Pseudostenophylax,sp.,,
+1243,Remenus,,Arthropoda,Hexapoda,,,Insecta,Pterygota,Neoptera,,Plecoptera,,,,Perlodidae,,,,Remenus,sp.,,PRD
+1244,Wandesia,,Arthropoda,Chelicerata,,,Arachnida,Acari,,Acariformes,Trombidiformes,,,,Hydryphantidae,,,,Wandesia,sp.,,

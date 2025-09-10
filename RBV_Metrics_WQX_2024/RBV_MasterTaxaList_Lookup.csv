@@ -1,0 +1,1309 @@
+﻿ID,RBVCategory,finalID,DEEPTaxaID
+1616,OTHER,Arachnida,-99
+1622,OTHER,Bezzia/Palpomyia sp.,-99
+1617,OTHER,Carabidae,-99
+1618,LEAST WANTED,Gordioidea,-99
+1619,OTHER,Heteroptera,-99
+1620,OTHER,Hydracarina,-99
+1621,OTHER,Leptohyphidae,-99
+1623,OTHER,Platyhelminthes,-99
+1624,OTHER,Thremmatidae,-99
+1625,LEAST WANTED,Truncatelloidea,-99
+1,MOST WANTED,Adicrophleps hitchcocki,1
+2,MOST WANTED,Alloperla usa,2
+3,OTHER,Ameletus lineatus,3
+4,LEAST WANTED,Annelida,4
+5,MODERATELY WANTED,Arigomphus,5
+6,MODERATELY WANTED,Arigomphus (Gomphus) furcifer,6
+7,MODERATELY WANTED,Arigomphus furcifer,7
+8,MODERATELY WANTED,Arthroplea bipunctata,8
+9,LEAST WANTED,Aulodrilus japonicus,9
+10,OTHER,Baetisca laurentina,10
+11,MOST WANTED,Brachypterinae,11
+12,OTHER,Cambarus robustus,12
+13,MODERATELY WANTED,Ceratopsyche bifida group,13
+14,MODERATELY WANTED,Ceratopsyche morosa group,14
+1588,MODERATELY WANTED,Hydropsyche morosa,14
+15,MODERATELY WANTED,Ceratopsyche ventura,15
+1586,MODERATELY WANTED,Hydropsyche ventura,15
+16,MODERATELY WANTED,Ceratopsyche walkeri,16
+17,MOST WANTED,Chloroperlidae/Leuctridae,17
+18,MODERATELY WANTED,Cinygmula subaequalis,18
+19,LEAST WANTED,Cipangopaludina,19
+20,OTHER,Clinocera/Oreogeton/Wiedemannia,20
+21,LEAST WANTED,Conasellus communis,21
+22,MODERATELY WANTED,Cordulegaster diastatops,22
+23,LEAST WANTED,Cricotopus intersectus group,23
+24,LEAST WANTED,Cricotopus tremulus group,24
+25,LEAST WANTED,Cricotopus trifascia group,25
+26,MOST WANTED,Cultus decisus,26
+27,LEAST WANTED,Diamesa Type A,27
+28,OTHER,Dibusa angata,28
+29,LEAST WANTED,Dicrotendipes nervosus/simpsoni/lucifer,29
+30,LEAST WANTED,Eclipidrilus lacustris,30
+31,OTHER,Empis/Hilara/Rhamphomyia,31
+32,OTHER,Ephemerella/Serratella,32
+1589,LEAST WANTED,Eukiefferiella brehmi gr.,33
+33,LEAST WANTED,Eukiefferiella brehmi group,33
+1590,LEAST WANTED,Eukiefferiella brevicalcar gr.,34
+34,LEAST WANTED,Eukiefferiella brevicalcar group,34
+1591,LEAST WANTED,Eukiefferiella claripennis gr.,35
+35,LEAST WANTED,Eukiefferiella claripennis group,35
+1592,LEAST WANTED,Eukiefferiella devonica gr.,36
+36,LEAST WANTED,Eukiefferiella devonica group,36
+37,LEAST WANTED,Eukiefferiella potthastia,37
+38,LEAST WANTED,Eukiefferiella potthastia group,38
+39,LEAST WANTED,Eukiefferiella pseudomontana group,39
+40,LEAST WANTED,Eukiefferiella tirolensis,40
+41,MODERATELY WANTED,Eurylophella aestiva,41
+42,MODERATELY WANTED,Eurylophella lutulenta,42
+43,MODERATELY WANTED,Eurylophella minimella,43
+44,MODERATELY WANTED,Eurylophella verisimilis,44
+45,LEAST WANTED,Ferrissia walkeri,45
+46,LEAST WANTED,Fossaria/Stagnicola,46
+47,LEAST WANTED,Gammarus pseudolimnaeus,47
+48,MODERATELY WANTED,Gomphus (Hylogomphus),48
+49,MODERATELY WANTED,Gomphus descriptus,49
+50,OTHER,Hagenella canadensis,50
+51,MOST WANTED,Helopicus subvarians,51
+52,OTHER,Heterocloeon curiosum,52
+53,LEAST WANTED,Hirudinea species A,53
+54,LEAST WANTED,Hirudinea species B,54
+55,OTHER,Hydatophylax argus/victor,55
+56,MODERATELY WANTED,Hydropsyche (frisoni/venularis),56
+57,MODERATELY WANTED,Hylogomphus adelphus,57
+58,MOST WANTED,Isogenoides hansoni,58
+59,MOST WANTED,Isogenoides olivaceus,59
+60,MOST WANTED,Isoperla dicala,60
+61,MOST WANTED,Isoperla gibbsae/transmarina,61
+62,MOST WANTED,Isoperla gibbsae/transmarina/richardsoni,62
+63,MOST WANTED,Isoperla namata,63
+64,MODERATELY WANTED,Lanthus vernalis,64
+65,MOST WANTED,Leuctra maria,65
+66,MODERATELY WANTED,Libellulidae/Corduliidae,66
+67,MODERATELY WANTED,Maccaffertium,67
+1117,MODERATELY WANTED,Maccaffertium sp.,67
+68,MODERATELY WANTED,Maccaffertium ithaca,68
+69,MODERATELY WANTED,Maccaffertium mediopunctatum,69
+70,MODERATELY WANTED,Maccaffertium mediopunctatum/ithaca,70
+71,MODERATELY WANTED,Maccaffertium mexicanum,71
+72,MODERATELY WANTED,Maccaffertium modestum group,72
+73,MODERATELY WANTED,Maccaffertium pudicum,73
+74,MODERATELY WANTED,Maccaffertium terminatum,74
+75,MODERATELY WANTED,Maccaffertium vicarium,75
+76,MODERATELY WANTED,Macrostemum zebratum,76
+77,OTHER,Microcrambus,77
+78,LEAST WANTED,Micromenetus dilatatus,78
+1583,LEAST WANTED,Micromenetus sp.,78
+79,LEAST WANTED,Micropsectra/Tanytarsus,79
+1604,LEAST WANTED,Microtendipes pedellus gr.,80
+80,LEAST WANTED,Microtendipes pedellus group,80
+1593,LEAST WANTED,Microtendipes rydalensis gr.,80
+81,LEAST WANTED,Microtendipes rydalensis group,81
+1594,LEAST WANTED,Palingeniidae,81
+82,OTHER,Mideopsis/Nudomideopsis magnacetabula,82
+83,LEAST WANTED,Nanocladius branchicolus,83
+84,LEAST WANTED,Nanocladius crassicornis,84
+85,OTHER,Nemata,85
+1585,OTHER,Nematoda,85
+86,OTHER,Nematomorpha,86
+87,OTHER,Nemertea,87
+88,OTHER,Neoporus,88
+89,LEAST WANTED,Neostempellina,89
+1122,LEAST WANTED,Neostempellina sp.,89
+90,MODERATELY WANTED,Neurocordulia yamaskanensis,90
+91,MODERATELY WANTED,Ophiogomphus carolus,91
+92,MODERATELY WANTED,Ophiogomphus rupinsulensis,92
+93,LEAST WANTED,Orthocladius (Eudactylocladius) dubitatus,93
+94,LEAST WANTED,Orthocladius (Euorthocladius),94
+95,LEAST WANTED,Orthocladius (Euorthocladius) rivicola,95
+96,LEAST WANTED,Orthocladius (Euorthocladius) rivulorum,96
+97,LEAST WANTED,Orthocladius (Orthocladius),97
+98,LEAST WANTED,Orthocladius (Orthocladius) annectens,98
+99,LEAST WANTED,Orthocladius (Orthocladius) carlatus,99
+100,LEAST WANTED,Orthocladius (Orthocladius) clarkei/obumbratus,100
+101,LEAST WANTED,Orthocladius (Orthocladius) dorenus,101
+102,LEAST WANTED,Orthocladius (Orthocladius) nigritus,102
+103,LEAST WANTED,Orthocladius (Orthocladius) oliveri,103
+104,LEAST WANTED,Orthocladius (Symposiocladius) lignicola,104
+105,LEAST WANTED,Orthocladius Complex,105
+106,LEAST WANTED,Orthocladius nigritus,106
+107,MOST WANTED,Ostrocerca albidipennis,107
+108,OTHER,Palaeagapetus celsus,108
+109,LEAST WANTED,Paralauterborniella nigrohalterale,109
+110,OTHER,Paraleptophlebia mollis,111
+111,MOST WANTED,Peltoperla arcuata,112
+112,LEAST WANTED,Phaenopsectra obediens group,113
+113,LEAST WANTED,Phaenopsectra punctipes group,114
+114,LEAST WANTED,Physa heterostropha,115
+115,LEAST WANTED,Physa integra/heterostropha group,116
+116,LEAST WANTED,Planorbella trivolvis group,117
+117,LEAST WANTED,Polypedilum fallax group,118
+118,LEAST WANTED,Polypedilum flavum,119
+119,LEAST WANTED,Polypedilum halterale group,120
+1605,LEAST WANTED,Polypedilum illinoense gr.,121
+120,LEAST WANTED,Polypedilum illinoense group,121
+1595,LEAST WANTED,Polypedilum scalaenum gr.,121
+121,LEAST WANTED,Polypedilum scalaenum group,122
+1596,LEAST WANTED,Potamanthidae,122
+122,LEAST WANTED,Potthastia gaedii group,123
+123,LEAST WANTED,Potthastia longimana group,124
+124,LEAST WANTED,Potthastia longimana/gaedii group,125
+125,OTHER,Pseudocloeon frondale,126
+126,MOST WANTED,Rasvena terna,127
+127,MOST WANTED,Remenus bilobatus,128
+128,LEAST WANTED,Rheocricotopus (robacki),129
+129,LEAST WANTED,Rheotanytarsus distinctissimus group,130
+1606,LEAST WANTED,Rheotanytarsus exiguus gr.,131
+130,LEAST WANTED,Rheotanytarsus exiguus group,131
+1597,LEAST WANTED,Serratella serrata,131
+131,LEAST WANTED,Rheotanytarsus pellucidus group,132
+132,MOST WANTED,Rhyacophila atrata,133
+133,MOST WANTED,Rhyacophila formosa,134
+134,MOST WANTED,Rhyacophila mainensis,135
+135,MOST WANTED,Rhyacophila minora,136
+136,MOST WANTED,Rhyacophila torva,137
+137,MOST WANTED,Rhyacophila Type C,138
+138,MOST WANTED,Rhyacophila Type D,139
+139,MOST WANTED,Rhyacophila Type E,140
+140,MOST WANTED,Rhyacophila Type F,141
+141,MODERATELY WANTED,Serratella frisoni,142
+142,MOST WANTED,Shipsa rotunda,143
+143,LEAST WANTED,Simulium tuberosum group,144
+144,LEAST WANTED,Simulium venustum group,145
+145,OTHER,Siphlonurus quebecensis,146
+146,MOST WANTED,Soyedina vallicularia/washingtoni,147
+147,MODERATELY WANTED,Stylurus plagiatus,148
+148,MOST WANTED,Suwallia/Sweltza,149
+149,LEAST WANTED,Synorthocladius (semivirens),150
+150,MOST WANTED,Taenionema atlanticum,151
+151,MOST WANTED,Taeniopteryx burksi group,152
+152,MOST WANTED,Tallaperla maria,153
+153,LEAST WANTED,Tanytarsus coffmani,154
+154,LEAST WANTED,Tanytarsus glabrescens group,155
+155,LEAST WANTED,Tanytarsus guerlus group,156
+156,LEAST WANTED,Thienemanniella fusca,157
+1582,LEAST WANTED,Thienemannimyia gr. sp.,158
+157,LEAST WANTED,Thienemannimyia group,158
+158,MODERATELY WANTED,Timpanoga simplex,159
+159,LEAST WANTED,Tribelos jucundum,160
+160,LEAST WANTED,Trissocladius,161
+161,LEAST WANTED,Tubificidae Type I,162
+162,LEAST WANTED,Tubificidae Type II,163
+163,LEAST WANTED,Tvetenia bavarica group,164
+1598,LEAST WANTED,Tvetenia discoloripes gr.,164
+1607,LEAST WANTED,Tvetenia bavarica gr.,165
+164,LEAST WANTED,Tvetenia bavarica/paucunca,165
+1599,LEAST WANTED,Uenoidae,165
+165,LEAST WANTED,Tvetenia vitracies group,166
+166,OTHER,Uchidastygacarus,167
+167,OTHER,Acentrella parvula,168
+168,LEAST WANTED,Actinobdella,169
+169,LEAST WANTED,Aeolosoma,170
+170,LEAST WANTED,Aeolosomatidae,171
+171,MODERATELY WANTED,Aeshna,172
+172,MOST WANTED,Agnetina,173
+173,OTHER,Ameletus,174
+174,LEAST WANTED,Apedilum ,175
+175,LEAST WANTED,Apsectrotanypus ,176
+176,MODERATELY WANTED,Arctopsyche ladogensis ,177
+177,OTHER,Atrichopogon,178
+178,OTHER,Aturidae,179
+179,OTHER,Aturus ,180
+180,LEAST WANTED,Aulodrilus,181
+181,OTHER,Baetisca rubescens ,182
+182,OTHER,Bivalvia,183
+183,MOST WANTED,Brachycentrus americanus,184
+184,MOST WANTED,Brachycentrus nigrosoma,185
+185,MOST WANTED,Brachycentrus solomoni,186
+186,LEAST WANTED,Branchiobdellidae,187
+187,OTHER,Caenis anceps,188
+188,LEAST WANTED,Cardiocladius albiplumus,189
+189,LEAST WANTED,Cardiocladius decisum,190
+190,MODERATELY WANTED,Ceratopsyche,191
+191,LEAST WANTED,Chaetogaster diastrophus,192
+192,OTHER,Chelifera/Hemerodromia,193
+193,OTHER,Chelifera/Metachela,194
+1130,OTHER,Chelifera/Metachela sp.,194
+194,MODERATELY WANTED,Chromagrion conditum,195
+195,OTHER,Clathrosperchon americanus,196
+196,MOST WANTED,Clioperla clio,197
+197,OTHER,Cloeon dipterum,198
+198,MODERATELY WANTED,Coenagrion/Enallagma,199
+199,OTHER,Corbicula,200
+1133,OTHER,Corbicula sp.,200
+200,OTHER,Corbiculoidea,201
+201,MODERATELY WANTED,Corduliidae,202
+202,LEAST WANTED,Crangonyctidae,203
+203,LEAST WANTED,Cricotopus bicinctus group,204
+204,LEAST WANTED,Cyathura polita,205
+205,MODERATELY WANTED,Dentatella ,206
+206,LEAST WANTED,Desserobdella phalera,207
+207,LEAST WANTED,Dicrotendipes simpsoni,208
+208,OTHER,Dictya pictipes,209
+209,MODERATELY WANTED,Didymops transversa,210
+210,MODERATELY WANTED,Diplectrona metaqui,211
+211,LEAST WANTED,Diplocladius,212
+1135,LEAST WANTED,Diplocladius sp.,212
+212,LEAST WANTED,Djalmabatista,213
+213,LEAST WANTED,Djalmabatista pulcher,214
+214,LEAST WANTED,Doncricotopus,215
+215,OTHER,Dreissena polymorpha,216
+216,OTHER,Ephemerella aurivillii,217
+217,MODERATELY WANTED,Epitheca,218
+218,LEAST WANTED,Epoicocladius,219
+219,OTHER,Erioptera ,220
+220,LEAST WANTED,Eukiefferiella coerulescens group,221
+221,LEAST WANTED,Eukiefferiella gracei group,222
+222,OTHER,Feltria ,223
+223,MODERATELY WANTED,Gomphus,224
+224,OTHER,Gonomyia,225
+225,OTHER,Gyrinidae,226
+226,OTHER,Haliplidae,227
+227,MOST WANTED,Hansonoperla,228
+228,OTHER,Helichus basalis,229
+229,OTHER,Helicopsychidae,230
+230,LEAST WANTED,Helobdella,231
+231,MODERATELY WANTED,Helocordulia selysii,232
+232,OTHER,Hesperoconopa,233
+1608,OTHER,Calamoceratidae,234
+233,OTHER,Heteroplectron americanum,234
+234,LEAST WANTED,Hirudinida,235
+235,OTHER,Hybomitra ,236
+1138,OTHER,Hybomitra sp.,236
+236,OTHER,Hydroporinae,237
+237,MODERATELY WANTED,Hydropsyche phalerata,238
+238,LEAST WANTED,Limnodrilus claparedianus,239
+239,LEAST WANTED,Limnodrilus udekemianus,240
+240,OTHER,Liodessus,241
+241,OTHER,Lioporeus,242
+242,MODERATELY WANTED,Maccaffertium meririvulanum,243
+243,MODERATELY WANTED,Macromia,244
+244,MODERATELY WANTED,Macromiidae,245
+245,LEAST WANTED,Manayunkia speciosa,246
+246,OTHER,Metretopodidae,247
+247,LEAST WANTED,Metriocnemus,248
+248,OTHER,Muscidae,249
+249,MODERATELY WANTED,Nigronia,250
+250,OTHER,Oecetis avara,251
+251,OTHER,Oribatei,252
+252,LEAST WANTED,Orthocladius (Euorthocladius) rivicola group,253
+253,MODERATELY WANTED,Pachydiplax longipennis,254
+254,MOST WANTED,Paranemoura perfecta,255
+255,MODERATELY WANTED,Parapsyche apicalis ,256
+256,OTHER,Pelocoris,257
+257,LEAST WANTED,Piquetiella blanci,258
+258,OTHER,Pisidiidae,259
+259,OTHER,Platycentropus,260
+260,LEAST WANTED,Polypedilum braseniae,261
+261,LEAST WANTED,Polypedilum epleri,262
+262,LEAST WANTED,Polypedilum ontario,263
+263,LEAST WANTED,Pristina,264
+264,LEAST WANTED,Pristina jenkinae,265
+265,OTHER,Protoplasa fitchii,266
+266,OTHER,Protzia exima,267
+267,OTHER,Pseudocloeon,268
+268,LEAST WANTED,Rheosmittia,269
+269,MOST WANTED,Rhyacophila acutiloba,270
+270,MOST WANTED,Rhyacophila carolina group,271
+271,MOST WANTED,Rhyacophila invaria group,272
+272,LEAST WANTED,Ripistes parasita,273
+273,OTHER,Roederiodes,274
+274,OTHER,Sciomyzidae,275
+275,OTHER,Sericostomatidae,276
+276,LEAST WANTED,Slavina appendiculata,277
+277,LEAST WANTED,Smittia,278
+278,MODERATELY WANTED,Somatochlora,279
+279,LEAST WANTED,Specaria josinae,280
+280,OTHER,Sperchopsis tessellata,281
+281,OTHER,Sphaerium simile,282
+282,OTHER,Stratiomyidae,283
+283,LEAST WANTED,Stygobromus,284
+284,OTHER,Stygothrombium,285
+285,MODERATELY WANTED,Stylurus,286
+286,MODERATELY WANTED,Stylurus spiniceps,287
+287,LEAST WANTED,Symbiocladius,288
+288,LEAST WANTED,Synurella,289
+289,MOST WANTED,Taenionema,290
+290,OTHER,Tanyderidae,291
+291,LEAST WANTED,Tanypus,292
+292,LEAST WANTED,Tokunagaia,293
+293,LEAST WANTED,Tubificidae w/ cap setae,294
+294,LEAST WANTED,Tubificidae w/o cap setae,295
+295,LEAST WANTED,Valvata tricarinata,296
+296,LEAST WANTED,Zavrelimyia,297
+297,MOST WANTED,Paraleuctra sara,298
+298,OTHER,Procambarus acutus,299
+299,OTHER,Procambarus clarkii,300
+300,LEAST WANTED,Promenetus exacuous,301
+301,OTHER,Promoresia tardella,302
+302,OTHER,Psychomyia nomada,303
+303,MOST WANTED,Rhyacophila manistee,304
+304,MOST WANTED,Rhyacophila nigrita,305
+305,MODERATELY WANTED,Serratella serratoides,306
+306,OTHER,Stenelmis concinna,307
+307,OTHER,Stenelmis mera,308
+308,OTHER,Stenelmis mirabilis,309
+309,MOST WANTED,Strophopteryx fasciata,310
+310,LEAST WANTED,Trissopelopia,311
+1147,LEAST WANTED,Trissopelopia sp.,311
+311,MOST WANTED,Plecoptera,312
+312,MOST WANTED,Capniidae,313
+313,MOST WANTED,Allocapnia,314
+314,MOST WANTED,Capnia,315
+315,MOST WANTED,Leuctridae,316
+316,MOST WANTED,Leuctra,317
+317,MOST WANTED,Nemouridae,318
+318,MOST WANTED,Amphinemura,319
+319,MOST WANTED,Amphinemura delosa,320
+320,MOST WANTED,Amphinemura nigritta,321
+321,MOST WANTED,Nemoura,322
+322,MOST WANTED,Prostoia,323
+323,MOST WANTED,Peltoperlidae,324
+324,MOST WANTED,Tallaperla,325
+1150,MOST WANTED,Tallaperla sp.,325
+325,MOST WANTED,Pteronarcyidae,326
+326,MOST WANTED,Pteronarcys,327
+327,MOST WANTED,Taeniopterygidae,328
+328,MOST WANTED,Oemopteryx,329
+329,MOST WANTED,Paracapnia,330
+1153,MOST WANTED,Paracapnia sp.,330
+330,MOST WANTED,Taeniopteryx,331
+1155,MOST WANTED,Taeniopteryx sp.,331
+331,MOST WANTED,Chloroperlidae,332
+332,MOST WANTED,Alloperla,333
+333,MOST WANTED,Perlesta placida,334
+334,MOST WANTED,Perlinella drymo,335
+335,MOST WANTED,Suwallia,336
+336,MOST WANTED,Sweltsa,337
+1157,MOST WANTED,Sweltsa sp.,337
+337,MOST WANTED,Perlidae,338
+338,MOST WANTED,Acroneuria,339
+1159,MOST WANTED,Acroneuria sp.,339
+339,MOST WANTED,Acroneuria abnormis,340
+340,MOST WANTED,Acroneuria carolinensis,341
+341,MOST WANTED,Acroneuria lycorias,342
+342,MOST WANTED,Agnetina capitata,343
+343,MOST WANTED,Attaneuria ruralis,344
+344,OTHER,Acari,345
+345,LEAST WANTED,Arcteonais lomondi,346
+346,MOST WANTED,Brachycentrus appalachia,347
+347,LEAST WANTED,Brillia parva,348
+348,LEAST WANTED,Brundiniella,349
+349,OTHER,Ceratopogoninae,350
+350,LEAST WANTED,Chironominae,351
+351,LEAST WANTED,Chironomini,352
+352,OTHER,Arrenurus,353
+353,MOST WANTED,Eccoptura xanthenes,354
+354,MOST WANTED,Neoperla,355
+1163,MOST WANTED,Neoperla sp.,355
+355,MOST WANTED,Neoperla clymene,356
+356,MOST WANTED,Paragnetina,357
+1165,MOST WANTED,Paragnetina sp.,357
+357,MOST WANTED,Paragnetina immarginata,358
+358,MOST WANTED,Paragnetina media,359
+359,MOST WANTED,Perlodidae,360
+360,MOST WANTED,Isogenoides,361
+361,MOST WANTED,Isoperla,362
+1167,MOST WANTED,Isoperla sp.,362
+362,MOST WANTED,Isoperla bilineata,363
+363,MODERATELY WANTED,Zygoptera,364
+364,MODERATELY WANTED,Calopterygidae,365
+365,MODERATELY WANTED,Calopteryx,366
+1169,MODERATELY WANTED,Calopteryx sp.,366
+366,MODERATELY WANTED,Calopteryx maculata,367
+367,MODERATELY WANTED,Coenagrionidae,368
+368,MODERATELY WANTED,Amphiagrion,369
+369,MODERATELY WANTED,Argia,370
+1171,MODERATELY WANTED,Argia sp.,370
+370,MODERATELY WANTED,Enallagma,371
+371,MODERATELY WANTED,Ischnura,372
+372,OTHER,Decapoda,373
+373,OTHER,Cryptolabis,374
+1174,OTHER,Cryptolabis sp.,374
+374,LEAST WANTED,Diamesinae,375
+375,MODERATELY WANTED,Eurylophella funeralis,376
+376,LEAST WANTED,Hirudinea,377
+1579,LEAST WANTED,Hirudinea (Hirudinea),377
+377,LEAST WANTED,Parachironomus frequens,378
+378,LEAST WANTED,Planorbula armigera,379
+379,MOST WANTED,Haploperla brevis,380
+380,OTHER,Mystacides sepulchralis,381
+381,OTHER,Atractides,382
+1177,OTHER,Atractides sp.,382
+382,OTHER,Hygrobates,383
+1179,OTHER,Hygrobates sp.,383
+383,OTHER,Lebertia,384
+1182,OTHER,Lebertia sp.,384
+384,OTHER,Limnochares,385
+385,OTHER,Mideopsis,386
+386,OTHER,Sperchon,387
+1186,OTHER,Sperchon sp.,387
+387,OTHER,Sperchonopsis,388
+1188,OTHER,Sperchonopsis sp.,388
+388,OTHER,Torrenticola,389
+389,OTHER,Neumania,390
+390,OTHER,Unionicola,391
+391,OTHER,Cyclopoida,392
+392,OTHER,Collembola,393
+1580,OTHER,Collembola (Collembola),393
+393,OTHER,Isotomurus,394
+394,OTHER,Ephemeroptera,395
+395,OTHER,Caenidae,396
+396,OTHER,Caenis,397
+1195,OTHER,Caenis sp.,397
+397,OTHER,Astacidae,398
+398,OTHER,Cambaridae,399
+399,OTHER,Cambarus,400
+1199,OTHER,Cambarus sp.,400
+400,OTHER,Orconectes,401
+1202,OTHER,Orconectes sp.,401
+401,OTHER,Orconectes virilis,402
+402,OTHER,Amphipoda,403
+403,OTHER,Ephemera simulans,404
+404,OTHER,Hexagenia limbata,405
+405,OTHER,Ephoron leukon,406
+406,OTHER,Baetidae,407
+407,OTHER,Baetis,408
+1208,OTHER,Baetis sp.,408
+408,OTHER,Acentrella,409
+1210,OTHER,Acentrella sp.,409
+409,OTHER,Baetis brunneicolor,410
+410,OTHER,Baetis flavistriga,411
+411,OTHER,Baetis intercalaris,412
+412,OTHER,Acerpenna pygmaea,413
+413,OTHER,Baetis tricaudatus,414
+414,OTHER,Callibaetis,415
+415,OTHER,Centroptilum,416
+416,OTHER,Procloeon,417
+417,OTHER,Heterocloeon ,418
+1218,OTHER,Heterocloeon sp.,418
+418,MODERATELY WANTED,Heptageniidae,419
+419,MOST WANTED,Epeorus,420
+1220,MOST WANTED,Epeorus sp.,420
+420,MODERATELY WANTED,Heptagenia,421
+421,MODERATELY WANTED,Leucrocuta,422
+1222,MODERATELY WANTED,Leucrocuta sp.,422
+422,MODERATELY WANTED,Nixe,423
+423,MODERATELY WANTED,Rhithrogena,424
+1224,MODERATELY WANTED,Rhithrogena sp.,424
+424,MODERATELY WANTED,Stenacron,425
+1225,MODERATELY WANTED,Stenacron sp.,425
+425,MODERATELY WANTED,Stenacron interpunctatum,426
+426,MODERATELY WANTED,Stenonema femoratum,427
+427,OTHER,Siphloplecton ,428
+428,MOST WANTED,Isonychia,429
+1227,MOST WANTED,Isonychia sp.,429
+429,MOST WANTED,Isonychiidae,430
+430,LEAST WANTED,Crangonyx,431
+1229,LEAST WANTED,Crangonyx sp.,431
+431,LEAST WANTED,Crangonyx pseudogracilis,432
+432,LEAST WANTED,Gammaridae,433
+433,LEAST WANTED,Gammarus,434
+1231,LEAST WANTED,Gammarus sp.,434
+434,LEAST WANTED,Gammarus fasciatus,435
+435,LEAST WANTED,Gammarus lacustris,436
+436,LEAST WANTED,Hyalella,437
+1232,LEAST WANTED,Hyalella sp.,437
+437,LEAST WANTED,Hyalella azteca,438
+438,OTHER,Orconectes rusticus,439
+439,OTHER,Ostracoda,440
+440,MOST WANTED,Ostrocerca,441
+441,OTHER,Psychomyia flavida,442
+442,MOST WANTED,Rasvena,443
+443,OTHER,Phalacrocera,444
+444,OTHER,Rhantus,445
+445,MOST WANTED,Utaperla,446
+446,OTHER,Acerpenna,447
+1236,OTHER,Acerpenna sp.,447
+447,OTHER,Acentrella turbida,448
+448,OTHER,Ephemera,449
+449,OTHER,Ephemeridae,450
+450,OTHER,Siphlonuridae,451
+451,OTHER,Siphlonurus,452
+452,OTHER,Ephemerellidae,453
+453,MODERATELY WANTED,Attenella attenuata,454
+454,MOST WANTED,Drunella sp.,455
+455,OTHER,Ephemerella,456
+1242,OTHER,Ephemerella sp.,456
+456,OTHER,Ephemerella rotunda,457
+457,OTHER,Ephemerella subvaria,458
+458,MODERATELY WANTED,Eurylophella,459
+1244,MODERATELY WANTED,Eurylophella sp.,459
+459,MODERATELY WANTED,Eurylophella temporalis,460
+460,MODERATELY WANTED,Serratella,461
+461,MODERATELY WANTED,Serratella deficiens,462
+462,OTHER,Leptophlebiidae,463
+463,OTHER,Habrophlebia vibrans,464
+464,OTHER,Habrophlebiodes,465
+465,OTHER,Leptophlebia,466
+466,OTHER,Paraleptophlebia,467
+1251,OTHER,Paraleptophlebia sp.,467
+467,OTHER,Paraleptophlebia debilis,468
+468,OTHER,Tricorythidae,469
+469,OTHER,Tricorythodes,470
+1254,OTHER,Tricorythodes sp.,470
+470,OTHER,Baetisca,471
+1609,OTHER,Baetiscidae,471
+471,OTHER,Baetisca obesa,472
+472,OTHER,Dytiscidae,473
+473,OTHER,Agabus,474
+474,OTHER,Hydroporus,475
+475,OTHER,Laccophilus,476
+476,LEAST WANTED,Isopoda,477
+477,LEAST WANTED,Asellidae,478
+478,LEAST WANTED,Caecidotea,479
+1257,LEAST WANTED,Caecidotea sp.,479
+479,LEAST WANTED,Caecidotea racovitzai,480
+480,MOST WANTED,Soyedina,481
+481,LEAST WANTED,Stegopterna,482
+482,LEAST WANTED,Stylodrilus heringianus,483
+483,MODERATELY WANTED,Stylogomphus albistylus,484
+484,LEAST WANTED,Tanypodinae,485
+485,LEAST WANTED,Tanytarsini,486
+486,OTHER,Dineutus,487
+487,OTHER,Gyrinus,488
+488,OTHER,Haliplus ,489
+489,OTHER,Peltodytes,490
+490,OTHER,Sphaeriidae,491
+491,OTHER,Scirtidae,492
+492,OTHER,Dryopididae,493
+1610,OTHER,Dryopidae,494
+493,OTHER,Helichus,494
+1264,OTHER,Helichus sp.,494
+494,OTHER,Helichus lithophilus,495
+495,OTHER,Elmidae,496
+496,OTHER,Ancyronyx variegatus,497
+497,OTHER,Dubiraphia,498
+1269,OTHER,Dubiraphia sp.,498
+498,OTHER,Dubiraphia bivittata,499
+499,OTHER,Dubiraphia vittata,500
+500,OTHER,Macronychus,501
+501,OTHER,Macronychus glabratus,502
+502,OTHER,Microcylloepus,503
+1274,OTHER,Microcylloepus sp.,503
+503,OTHER,Microcylloepus pusillus,504
+504,OTHER,Optioservus,505
+1278,OTHER,Optioservus sp.,505
+505,OTHER,Oulimnius,506
+1281,OTHER,Oulimnius sp.,506
+506,OTHER,Promoresia,507
+1284,OTHER,Promoresia sp.,507
+507,OTHER,Promoresia elegans,508
+508,OTHER,Stenelmis,509
+1288,OTHER,Stenelmis sp.,509
+509,OTHER,Stenelmis crenata,510
+510,OTHER,Stenelmis humerosa,511
+511,OTHER,Stenelmis markeli,512
+512,MODERATELY WANTED,Psephenidae,513
+513,MODERATELY WANTED,Ectopria,514
+1293,MODERATELY WANTED,Ectopria sp.,514
+514,MODERATELY WANTED,Ectopria nervosa,515
+515,MODERATELY WANTED,Psephenus herricki,516
+516,OTHER,Hydrophilidae,517
+517,OTHER,Berosus,518
+518,OTHER,Cymbiodyta ,519
+519,OTHER,Hydrobius,520
+520,OTHER,Hydrochus,521
+521,OTHER,Tropisternus,522
+522,OTHER,Diptera,523
+523,OTHER,Dolichopodidae,524
+524,OTHER,Empididae,525
+525,OTHER,Clinocera,526
+526,OTHER,Wiedemannia,527
+527,OTHER,Chelifera,528
+528,OTHER,Hemerodromia,529
+1304,OTHER,Hemerodromia sp.,529
+529,OTHER,Oreogeton,530
+530,OTHER,Ephydridae,531
+531,OTHER,Limnophora,532
+532,OTHER,Syrphidae,533
+533,OTHER,Odontomyia,534
+534,OTHER,Athericidae,535
+535,OTHER,Atherix,536
+1308,OTHER,Atherix sp.,536
+536,OTHER,Atherix variegata,537
+537,OTHER,Tabanidae,538
+538,OTHER,Chrysops,539
+539,OTHER,Tabanus,540
+540,OTHER,Blepharicera,541
+541,OTHER,Blephariceridae,542
+542,OTHER,Ceratopogonidae,543
+543,OTHER,Culicoides,544
+544,OTHER,Bezzia group,545
+545,OTHER,Probezzia,546
+546,OTHER,Dasyhelea,547
+547,LEAST WANTED,Lumbricina,548
+548,MOST WANTED,Rhyacophila sibirica,549
+549,OTHER,Chaoborus,550
+550,LEAST WANTED,Chironomidae,551
+551,LEAST WANTED,Diamesa,552
+1317,LEAST WANTED,Diamesa sp.,552
+552,LEAST WANTED,Pagastia,553
+1319,LEAST WANTED,Pagastia sp.,553
+553,LEAST WANTED,Potthastia,554
+554,LEAST WANTED,Potthastia longimana,555
+1320,LEAST WANTED,Potthastia longimana gr.,555
+555,LEAST WANTED,Sympotthastia,556
+1321,LEAST WANTED,Sympotthastia sp.,556
+556,LEAST WANTED,Prodiamesa,557
+557,LEAST WANTED,Clinotanypus,558
+558,LEAST WANTED,Clinotanypus pinguis,559
+559,LEAST WANTED,Natarsia,560
+560,LEAST WANTED,Ablabesmyia,561
+561,LEAST WANTED,Ablabesmyia annulata,562
+562,LEAST WANTED,Ablabesmyia janta,563
+563,LEAST WANTED,Ablabesmyia mallochi,564
+564,LEAST WANTED,Ablabesmyia peleensis,565
+565,LEAST WANTED,Conchapelopia,566
+566,LEAST WANTED,Labrundinia,567
+567,LEAST WANTED,Labrundinia pilosella,568
+568,LEAST WANTED,Larsia,569
+569,LEAST WANTED,Nilotanypus,570
+570,LEAST WANTED,Nilotanypus fimbriatus,571
+571,LEAST WANTED,Paramerina,572
+572,LEAST WANTED,Pentaneura,573
+1323,LEAST WANTED,Pentaneura sp.,573
+573,LEAST WANTED,Procladius,574
+574,OTHER,Culicidae,575
+575,OTHER,Anopheles,576
+576,OTHER,Dixa,577
+1325,OTHER,Dixa sp.,577
+577,OTHER,Dixidae,578
+578,LEAST WANTED,Orthocladiinae,579
+579,LEAST WANTED,Brillia,580
+1328,LEAST WANTED,Brillia sp.,580
+580,LEAST WANTED,Brillia flavifrons,581
+581,LEAST WANTED,Cardiocladius,582
+1330,LEAST WANTED,Cardiocladius sp.,582
+582,LEAST WANTED,Cardiocladius obscurus,583
+583,LEAST WANTED,Chaetocladius,584
+1331,LEAST WANTED,Chaetocladius sp.,584
+584,LEAST WANTED,Chironomus,585
+1333,LEAST WANTED,Chironomus sp.,585
+585,LEAST WANTED,Cryptochironomus,586
+586,LEAST WANTED,Cryptotendipes ,587
+587,LEAST WANTED,Demicryptochironomus,588
+588,LEAST WANTED,Dicrotendipes,589
+589,LEAST WANTED,Dicrotendipes fumidus,590
+590,LEAST WANTED,Dicrotendipes modestus,591
+591,LEAST WANTED,Dicrotendipes neomodestus,592
+592,LEAST WANTED,Endochironomus nigricans,593
+593,LEAST WANTED,Glyptotendipes,594
+1336,LEAST WANTED,Glyptotendipes sp.,594
+594,LEAST WANTED,Glyptotendipes lobiferus,595
+595,LEAST WANTED,Goeldichironomus,596
+596,LEAST WANTED,Lauterborniella agrayloides,597
+597,LEAST WANTED,Microchironomus,598
+598,LEAST WANTED,Microtendipes,599
+599,LEAST WANTED,Nilothauma,600
+1338,LEAST WANTED,Nilothauma sp.,600
+600,LEAST WANTED,Pagastiella,601
+601,LEAST WANTED,Parachironomus,602
+602,LEAST WANTED,Parachironomus abortivus,603
+603,LEAST WANTED,Paracladopelma,604
+604,LEAST WANTED,Paratendipes,605
+1339,LEAST WANTED,Paratendipes sp.,605
+605,LEAST WANTED,Paratendipes albimanus,606
+606,LEAST WANTED,Phaenopsectra,607
+1340,LEAST WANTED,Phaenopsectra sp.,607
+607,LEAST WANTED,Polypedilum,608
+1342,LEAST WANTED,Polypedilum sp.,608
+608,LEAST WANTED,Polypedilum aviceps,609
+609,LEAST WANTED,Polypedilum laetum,610
+610,LEAST WANTED,Polypedilum tritum,611
+611,LEAST WANTED,Robackia,612
+612,LEAST WANTED,Robackia demeijerei,613
+613,LEAST WANTED,Saetheria,614
+614,LEAST WANTED,Saetheria tylus,615
+615,LEAST WANTED,Stenochironomus,616
+616,LEAST WANTED,Stictochironomus,617
+617,LEAST WANTED,Tribelos,618
+618,LEAST WANTED,Xenochironomus,619
+619,LEAST WANTED,Xenochironomus xenolabis,620
+620,LEAST WANTED,Xestochironomus,621
+621,LEAST WANTED,Pseudochironomus,622
+622,LEAST WANTED,Cladotanytarsus,623
+1346,LEAST WANTED,Cladotanytarsus sp.,623
+623,LEAST WANTED,Micropsectra,624
+624,LEAST WANTED,Micropsectra polita,625
+625,LEAST WANTED,Paratanytarsus,626
+626,LEAST WANTED,Rheotanytarsus,627
+627,LEAST WANTED,Stempellinella,628
+1351,LEAST WANTED,Stempellinella sp.,628
+628,LEAST WANTED,Sublettea,629
+1353,LEAST WANTED,Sublettea sp.,629
+629,LEAST WANTED,Sublettea coffmani,630
+630,LEAST WANTED,Tanytarsus,631
+1355,LEAST WANTED,Tanytarsus sp.,631
+631,LEAST WANTED,Corynoneura,632
+1357,LEAST WANTED,Corynoneura sp.,632
+632,LEAST WANTED,Corynoneura taris,633
+633,LEAST WANTED,Cricotopus,634
+1359,LEAST WANTED,Cricotopus sp.,634
+634,LEAST WANTED,Cricotopus bicinctus,635
+1360,LEAST WANTED,Cricotopus bicinctus gr.,635
+635,LEAST WANTED,Cricotopus sylvestris,636
+636,LEAST WANTED,Eukiefferiella,637
+1362,LEAST WANTED,Eukiefferiella sp.,637
+637,LEAST WANTED,Eukiefferiella pseudomontana,638
+638,LEAST WANTED,Heleniella,639
+639,LEAST WANTED,Heterotrissocladius,640
+640,LEAST WANTED,Hydrobaenus,641
+641,LEAST WANTED,Limnophyes,642
+1363,LEAST WANTED,Limnophyes sp.,642
+642,LEAST WANTED,Lopescladius,643
+1365,LEAST WANTED,Lopescladius sp.,643
+643,LEAST WANTED,Nanocladius,644
+1367,LEAST WANTED,Nanocladius sp.,644
+644,OTHER,Unionidae,645
+645,OTHER,Elliptio ,646
+646,OTHER,Elliptio complanata,647
+647,OTHER,Corbicula fluminea,648
+1611,OTHER,Corbiculidae,648
+648,OTHER,Musculium ,649
+649,OTHER,Pisidium,650
+1372,OTHER,Pisidium sp.,650
+650,LEAST WANTED,Clitellata,651
+1578,LEAST WANTED,Oligochaeta (Oligochaeta),651
+651,LEAST WANTED,Branchiobdellida,652
+652,LEAST WANTED,Lumbricidae,653
+653,LEAST WANTED,Sparganophilus,654
+654,LEAST WANTED,Enchytraeidae,655
+655,LEAST WANTED,Naididae,656
+656,LEAST WANTED,Dero,657
+1373,LEAST WANTED,Dero sp.,657
+657,LEAST WANTED,Nanocladius distinctus,658
+658,LEAST WANTED,Nanocladius minimus,659
+659,LEAST WANTED,Nanocladius rectinervis,660
+660,LEAST WANTED,Nanocladius spiniplenus,661
+661,LEAST WANTED,Orthocladius,662
+1375,LEAST WANTED,Orthocladius sp.,662
+662,LEAST WANTED,Symposiocladius lignicola,663
+663,LEAST WANTED,Orthocladius obumbratus,664
+664,LEAST WANTED,Parachaetocladius,665
+1377,LEAST WANTED,Parachaetocladius sp.,665
+665,LEAST WANTED,Paracricotopus,666
+666,LEAST WANTED,Parakiefferiella,667
+1380,LEAST WANTED,Parakiefferiella sp.,667
+667,LEAST WANTED,Parametriocnemus,668
+1382,LEAST WANTED,Parametriocnemus sp.,668
+668,LEAST WANTED,Paraphaenocladius,669
+669,LEAST WANTED,Psectrocladius,670
+670,LEAST WANTED,Pseudorthocladius,671
+671,LEAST WANTED,Pseudosmittia ,672
+672,LEAST WANTED,Psilometriocnemus,673
+673,LEAST WANTED,Rheocricotopus,674
+1384,LEAST WANTED,Rheocricotopus sp.,674
+674,LEAST WANTED,Stilocladius,675
+1386,LEAST WANTED,Stilocladius sp.,675
+675,LEAST WANTED,Synorthocladius,676
+1388,LEAST WANTED,Synorthocladius sp.,676
+676,LEAST WANTED,Thienemanniella,677
+1390,LEAST WANTED,Thienemanniella sp.,677
+677,LEAST WANTED,Thienemanniella xena,678
+678,LEAST WANTED,Tvetenia,679
+679,LEAST WANTED,Unniella,680
+680,LEAST WANTED,Unniella multivirga,681
+681,LEAST WANTED,Xylotopus par,682
+682,LEAST WANTED,Simuliidae,683
+683,LEAST WANTED,Prosimulium,684
+684,LEAST WANTED,Simulium,685
+1392,LEAST WANTED,Simulium sp.,685
+685,LEAST WANTED,Simulium jenningsi,686
+686,LEAST WANTED,Simulium vittatum,687
+687,OTHER,Psychodidae,688
+688,OTHER,Pericoma,689
+689,OTHER,Psychoda,690
+690,OTHER,Tipulidae,691
+691,OTHER,Molophilus,692
+692,OTHER,Ormosia,693
+693,OTHER,Hexatoma,694
+1399,OTHER,Hexatoma sp.,694
+694,OTHER,Limnophila,695
+1400,OTHER,Limnophila sp.,695
+695,OTHER,Pilaria,696
+696,OTHER,Pseudolimnophila,697
+697,OTHER,Antocha,698
+1403,OTHER,Antocha sp.,698
+698,OTHER,Sphaerium,699
+699,LEAST WANTED,Gastropoda,700
+700,LEAST WANTED,Ancylidae,701
+701,LEAST WANTED,Ferrissia,702
+1407,LEAST WANTED,Ferrissia sp.,702
+702,LEAST WANTED,Ferrissia rivularis,703
+703,LEAST WANTED,Laevapex fuscus,704
+704,LEAST WANTED,Lymnaeidae,705
+705,LEAST WANTED,Fossaria,706
+706,LEAST WANTED,Pseudosuccinea columella,707
+707,LEAST WANTED,Stagnicola,708
+708,LEAST WANTED,Physidae,709
+709,LEAST WANTED,Physa,710
+1409,LEAST WANTED,Physa sp.,710
+710,LEAST WANTED,Planorbidae,711
+711,LEAST WANTED,Gyraulus,712
+1411,LEAST WANTED,Gyraulus sp.,712
+712,LEAST WANTED,Gyraulus parvus,713
+713,LEAST WANTED,Helisoma anceps,714
+714,LEAST WANTED,Helisoma trivolvis,715
+715,LEAST WANTED,Planorbella,716
+1412,LEAST WANTED,Planorbella sp.,716
+716,LEAST WANTED,Nais,717
+1414,LEAST WANTED,Nais sp.,717
+717,LEAST WANTED,Nais barbata,718
+718,LEAST WANTED,Nais behningi,719
+719,LEAST WANTED,Nais bretscheri,720
+720,LEAST WANTED,Nais communis,721
+721,LEAST WANTED,Nais pardalis,722
+722,LEAST WANTED,Nais variabilis,723
+723,LEAST WANTED,Ophidonais serpentina,724
+724,LEAST WANTED,Pristina osborni,725
+725,LEAST WANTED,Pristinella osborni,726
+726,LEAST WANTED,Stylaria lacustris,727
+727,LEAST WANTED,Vejdovskyella,728
+728,LEAST WANTED,Tubificidae,729
+729,LEAST WANTED,Aulodrilus limnobius,730
+730,LEAST WANTED,Aulodrilus pigueti,731
+731,LEAST WANTED,Aulodrilus pluriseta,732
+732,LEAST WANTED,Branchiura sowerbyi,733
+733,LEAST WANTED,Limnodrilus,734
+734,LEAST WANTED,Limnodrilus hoffmeisteri,735
+735,LEAST WANTED,Quistradrilus multisetosus,736
+736,LEAST WANTED,Erpobdella,737
+737,LEAST WANTED,Erpobdellidae,738
+738,OTHER,Limonia,739
+739,OTHER,Dicranota,740
+1418,OTHER,Dicranota sp.,740
+740,OTHER,Pedicia,741
+741,OTHER,Tipula,742
+1421,OTHER,Tipula sp.,742
+742,OTHER,Lepidoptera,743
+743,OTHER,Noctuidae,744
+744,OTHER,Crambidae,745
+1584,OTHER,Pyralidae,745
+745,OTHER,Paraponyx,746
+746,OTHER,Petrophila,747
+1424,OTHER,Petrophila sp.,747
+747,MODERATELY WANTED,Corydalidae,748
+748,MODERATELY WANTED,Corydalus cornutus,749
+749,MODERATELY WANTED,Nigronia serricornis,750
+750,OTHER,Sisyridae,751
+751,OTHER,Climacia,752
+752,OTHER,Sialidae,753
+753,OTHER,Sialis,754
+1428,OTHER,Sialis sp.,754
+754,OTHER,Trichoptera,755
+755,MOST WANTED,Brachycentridae,756
+756,MOST WANTED,Brachycentrus,757
+757,MOST WANTED,Brachycentrus numerosus,758
+758,MOST WANTED,Micrasema,759
+1431,MOST WANTED,Micrasema sp.,759
+759,MOST WANTED,Glossosomatidae,760
+760,MOST WANTED,Agapetus,761
+761,MOST WANTED,Glossosoma,762
+1434,MOST WANTED,Glossosoma sp.,762
+762,OTHER,Helicopsyche borealis,763
+763,MODERATELY WANTED,Hydropsychidae,764
+764,MODERATELY WANTED,Ceratopsyche alhedra,765
+765,MODERATELY WANTED,Ceratopsyche bronta,766
+1600,MODERATELY WANTED,Hydropsyche bronta,766
+766,MODERATELY WANTED,Ceratopsyche morosa,767
+1601,MODERATELY WANTED,Hydropsyche slossonae,767
+767,MODERATELY WANTED,Ceratopsyche slossonae,768
+1602,MODERATELY WANTED,Hydropsyche sparna,768
+768,MODERATELY WANTED,Ceratopsyche sparna,769
+1603,MODERATELY WANTED,Krenosmittia sp.,769
+769,MODERATELY WANTED,Cheumatopsyche,770
+1437,MODERATELY WANTED,Cheumatopsyche sp.,770
+770,MODERATELY WANTED,Diplectrona,771
+771,MODERATELY WANTED,Diplectrona modesta,772
+772,MODERATELY WANTED,Hydropsyche,773
+1440,MODERATELY WANTED,Hydropsyche sp.,773
+773,MODERATELY WANTED,Hydropsyche betteni,774
+774,LEAST WANTED,Amnicola limosa,775
+775,LEAST WANTED,Hydrobiidae,776
+776,LEAST WANTED,Erpobdella punctata punctata,777
+777,LEAST WANTED,Nephelopsis obscura,778
+778,LEAST WANTED,Glossiphoniidae,779
+779,LEAST WANTED,Glossiphonia complanata,780
+780,LEAST WANTED,Helobdella stagnalis,781
+781,LEAST WANTED,Lumbriculidae,782
+782,LEAST WANTED,Eclipidrilus,783
+783,LEAST WANTED,Lumbriculus,784
+784,MODERATELY WANTED,Hydropsyche scalaris,785
+785,MODERATELY WANTED,Macrostemum,786
+1442,MODERATELY WANTED,Macrostemum sp.,786
+786,MODERATELY WANTED,Macrostemum carolina,787
+787,OTHER,Hydroptilidae,788
+788,OTHER,Agraylea,789
+789,OTHER,Hydroptila,790
+1446,OTHER,Hydroptila sp.,790
+790,OTHER,Leucotrichia pictipes,791
+791,OTHER,Mayatrichia ,792
+792,OTHER,Ochrotrichia,793
+793,OTHER,Orthotrichia,794
+794,OTHER,Oxyethira,795
+1449,OTHER,Oxyethira sp.,795
+795,MOST WANTED,Lepidostomatidae,796
+796,MOST WANTED,Lepidostoma,797
+1451,MOST WANTED,Lepidostoma sp.,797
+797,OTHER,Leptoceridae,798
+798,OTHER,Ceraclea,799
+1454,OTHER,Ceraclea sp.,799
+799,OTHER,Leptocerus americanus,800
+800,OTHER,Mystacides,801
+801,OTHER,Nectopsyche,802
+802,OTHER,Oecetis,803
+1459,OTHER,Oecetis sp.,803
+803,OTHER,Oecetis persimilis,804
+804,OTHER,Setodes,805
+1463,OTHER,Setodes sp.,805
+805,OTHER,Triaenodes,806
+806,OTHER,Limnephilidae,807
+807,OTHER,Goeridae,808
+808,MOST WANTED,Apatania,809
+1469,MOST WANTED,Apatania sp.,809
+1612,MOST WANTED,Apataniidae,809
+809,OTHER,Goera,810
+1472,OTHER,Goera sp.,810
+810,OTHER,Ironoquia,811
+811,OTHER,Limnephilus,812
+812,OTHER,Neophylax,813
+1475,OTHER,Neophylax sp.,813
+813,OTHER,Psychoglypha,814
+814,OTHER,Pycnopsyche,815
+1478,OTHER,Pycnopsyche sp.,815
+815,OTHER,Molanna,816
+816,OTHER,Molannidae,817
+817,LEAST WANTED,Valvata,818
+818,OTHER,Prostoma,819
+1482,OTHER,Prostoma sp.,819
+819,OTHER,Prostoma graecense,820
+820,OTHER,Turbellaria,821
+821,OTHER,Odontoceridae,822
+822,OTHER,Psilotreta,823
+1488,OTHER,Psilotreta sp.,823
+823,MODERATELY WANTED,Philopotamidae,824
+824,MODERATELY WANTED,Chimarra,825
+1490,MODERATELY WANTED,Chimarra sp.,825
+825,MODERATELY WANTED,Chimarra aterrima,826
+826,MODERATELY WANTED,Chimarra obscura,827
+827,MODERATELY WANTED,Chimarra socia,828
+828,MODERATELY WANTED,Dolophilodes,829
+1492,MODERATELY WANTED,Dolophilodes sp.,829
+829,MODERATELY WANTED,Wormaldia,830
+830,OTHER,Phryganeidae,831
+831,OTHER,Agrypnia,832
+832,OTHER,Ptilostomis,833
+833,OTHER,Polycentropodidae,834
+834,OTHER,Cyrnellus fraternus,835
+835,OTHER,Neureclipsis,836
+1497,OTHER,Neureclipsis sp.,836
+836,OTHER,Nyctiophylax,837
+837,OTHER,Polycentropus,838
+1501,OTHER,Polycentropus sp.,838
+838,OTHER,Psychomyiidae,839
+839,OTHER,Cernotina,840
+840,OTHER,Lype,841
+841,OTHER,Lype diversa,842
+842,OTHER,Phylocentropus,843
+843,OTHER,Psychomyia,844
+844,MOST WANTED,Culoptila,845
+1508,MOST WANTED,Culoptila sp.,845
+845,MOST WANTED,Protoptila,846
+1510,MOST WANTED,Protoptila sp.,846
+846,MOST WANTED,Rhyacophila,847
+1512,MOST WANTED,Rhyacophila sp.,847
+847,MOST WANTED,Rhyacophilidae,848
+848,MOST WANTED,Rhyacophila angelita,849
+849,MOST WANTED,Rhyacophila carolina,850
+850,MOST WANTED,Rhyacophila fuscula,851
+851,OTHER,Agarodes,852
+852,OTHER,Belostoma,853
+1613,OTHER,Belostomatidae,853
+853,OTHER,Lethocerus,854
+854,OTHER,Corixidae,855
+855,OTHER,Hesperocorixa,856
+856,OTHER,Sigara,857
+857,OTHER,Trichocorixa,858
+1614,OTHER,Gerridae,859
+858,OTHER,Rheumatobates,859
+859,OTHER,Cura,860
+860,OTHER,Cura foremanii,861
+861,OTHER,Planariidae,862
+862,OTHER,Anchytarsus bicolor,863
+863,OTHER,Ptilodactylidae,864
+864,MOST WANTED,Brachycentrus lateralis,865
+865,OTHER,Cambarus bartonii,866
+866,LEAST WANTED,Campeloma decisum,867
+867,LEAST WANTED,Diplocladius cultriger,868
+868,MOST WANTED,Drunella lata,869
+869,MOST WANTED,Drunella walkeri,870
+870,OTHER,Ranatra,871
+871,OTHER,Notonecta,872
+872,OTHER,Neoplea,873
+873,OTHER,Microvelia,874
+874,OTHER,Rhagovelia,875
+1520,OTHER,Rhagovelia sp.,875
+1615,OTHER,Veliidae,875
+875,MODERATELY WANTED,Odonata,876
+876,MODERATELY WANTED,Aeshnidae,877
+877,MODERATELY WANTED,Anax junius,878
+878,MODERATELY WANTED,Basiaeschna,879
+879,MODERATELY WANTED,Basiaeschna janata,880
+880,MODERATELY WANTED,Boyeria,881
+1521,MODERATELY WANTED,Boyeria sp.,881
+881,MODERATELY WANTED,Boyeria grafiana,882
+882,MODERATELY WANTED,Boyeria vinosa,883
+883,MODERATELY WANTED,Gomphidae,884
+884,MODERATELY WANTED,Dromogomphus,885
+885,MODERATELY WANTED,Dromogomphus spinosus,886
+886,MODERATELY WANTED,Hagenius brevistylus,887
+887,MODERATELY WANTED,Lanthus,888
+1523,MODERATELY WANTED,Lanthus sp.,888
+888,MODERATELY WANTED,Ophiogomphus,889
+1525,MODERATELY WANTED,Ophiogomphus sp.,889
+889,MODERATELY WANTED,Ophiogomphus mainensis,890
+890,MODERATELY WANTED,Cordulegaster,891
+1527,MODERATELY WANTED,Cordulegaster sp.,891
+891,MODERATELY WANTED,Cordulegastridae,892
+892,MODERATELY WANTED,Cordulegaster maculata,893
+893,MODERATELY WANTED,Libellulidae,894
+894,MODERATELY WANTED,Leucorrhinia,895
+895,MODERATELY WANTED,Libellula,896
+896,MODERATELY WANTED,Macromia illinoiensis,897
+897,LEAST WANTED,Elimia,898
+898,LEAST WANTED,Elimia virginica,899
+899,OTHER,Ephemerella dorothea,900
+900,OTHER,Ephemerella invaria,901
+901,OTHER,Ephemerella needhami,902
+902,OTHER,Ephemerella septentrionalis,903
+903,LEAST WANTED,Ferrissia parallela,904
+904,MODERATELY WANTED,Gomphus spicatus,905
+905,LEAST WANTED,Gyraulus circumstriatus,906
+906,MOST WANTED,Isoperla marlynia,907
+907,MOST WANTED,Isoperla similis,908
+908,MODERATELY WANTED,Lanthus parvulus,909
+909,OTHER,Nemotelus,910
+910,MOST WANTED,Oemopteryx glacialis,911
+911,OTHER,Oligostomis,912
+912,OTHER,Optioservus immunis,913
+913,OTHER,Optioservus ovalis,914
+914,OTHER,Optioservus trivittatus,915
+915,OTHER,Orconectes immunis,916
+916,OTHER,Orconectes limosus,917
+917,OTHER,Orconectes neglectus,918
+918,OTHER,Oulimnius latiusculus,919
+919,LEAST WANTED,Pagastia orthogonia,920
+920,LEAST WANTED,Ferrissia fragilis,921
+921,LEAST WANTED,Fossaria parva,922
+922,LEAST WANTED,Physa gyrina,923
+923,LEAST WANTED,Cipangopaludina chinensis,924
+924,OTHER,Rhyncholimnochares,925
+1535,OTHER,Rhyncholimnochares sp.,925
+925,OTHER,Testudacarus,926
+926,OTHER,Brachycera,927
+927,OTHER,Neoplasta,928
+1537,OTHER,Neoplasta sp.,928
+928,OTHER,Allognosta,929
+929,LEAST WANTED,Tvetenia paucunca,930
+930,LEAST WANTED,Pentaneurini,931
+931,LEAST WANTED,Ectemnia,932
+932,MOST WANTED,Amphinemura wui,933
+933,MOST WANTED,Perlodini,934
+934,MOST WANTED,Malirekus hastatus,935
+935,MOST WANTED,Drunella cornuta,936
+936,OTHER,Anthopotamus,937
+937,OTHER,Potamathidae,938
+938,OTHER,Acentrella ampla,939
+939,OTHER,Acerpenna macdunnoughi,940
+940,OTHER,Baetis pluto,941
+941,OTHER,Diphetor hageni,942
+942,OTHER,Plauditus,943
+1545,OTHER,Plauditus sp.,943
+943,LEAST WANTED,Ablabesmyia aspera,944
+944,OTHER,Acanthocyclops brevispinosus,945
+945,OTHER,Acentrella nadineae,946
+946,MODERATELY WANTED,Anisoptera,947
+947,MODERATELY WANTED,Argia apicalis,949
+948,OTHER,Atherix lantha,950
+949,OTHER,Baetis flavistriga complex,951
+950,OTHER,Baetis fuscatus group,952
+951,OTHER,Baetis intercalaris complex,953
+952,OTHER,Baetis tricaudatus complex,954
+953,OTHER,Belostoma flumineum,955
+954,OTHER,Caenis diminuta group,956
+955,OTHER,Candonidae,957
+956,MODERATELY WANTED,Chauliodes,958
+957,OTHER,Cladocera,959
+958,OTHER,Clathrosperchon,960
+1551,OTHER,Clathrosperchon sp.,960
+959,OTHER,Clinocerinae,961
+960,OTHER,Coleoptera,962
+961,LEAST WANTED,Corynoneura caudicula,963
+962,LEAST WANTED,Corynoneura lobata,964
+963,LEAST WANTED,Corynoneura sp. 12 (Bolton 2007),965
+964,LEAST WANTED,Cricotopus (Cricotopus),966
+965,LEAST WANTED,Cricotopus annulator complex,967
+966,LEAST WANTED,Cricotopus Sylvestris group,968
+967,LEAST WANTED,Cricotopus trifascia,969
+1553,LEAST WANTED,Cricotopus trifascia gr.,969
+968,OTHER,Cyclopidae,970
+969,OTHER,Dixella,971
+970,MODERATELY WANTED,Dolophilodes distincta,972
+971,LEAST WANTED,Endochironomus,973
+972,MOST WANTED,Epeorus vitreus,974
+973,MOST WANTED,Epeorus vitreus group,975
+974,MODERATELY WANTED,Erythemis simplicicollis,976
+975,LEAST WANTED,Galba,977
+976,LEAST WANTED,Gammarus minus,978
+977,MOST WANTED,Glossosoma intermedium,979
+978,MOST WANTED,Glossosoma nigrior,980
+979,OTHER,Goera calcarata,981
+980,OTHER,Gordius,982
+981,OTHER,Helichus fastigiatus,983
+982,OTHER,Hemiptera,984
+983,OTHER,Hesperocorixa vulgaris,985
+984,MODERATELY WANTED,Hetaerina,986
+985,OTHER,Hexagenia,987
+986,OTHER,Hydatophylax,988
+987,OTHER,Iswaeon anoka,989
+988,OTHER,Leptophlebia cupida,990
+989,MODERATELY WANTED,Lestes,991
+990,MODERATELY WANTED,Lestes inaequalis,992
+991,OTHER,Limoniinae,993
+992,MODERATELY WANTED,Maccaffertium modestum,994
+993,OTHER,Macrocyclops albidus,995
+994,OTHER,Macrocyclops fuscus,996
+995,OTHER,Margaritifera margaritifera,997
+996,OTHER,Menetus dilatatus,998
+997,MOST WANTED,Micrasema Rusticum group,999
+998,LEAST WANTED,Naidinae,1000
+999,LEAST WANTED,Nanocladius (Plecopteracoluthus),1001
+1000,OTHER,Nemotaulius hostilis,1002
+1001,OTHER,Neocloeon,1003
+1002,OTHER,Neoporus carolinus,1004
+1003,LEAST WANTED,Neostempellina reissi,1005
+1004,OTHER,Notonecta insulata,1006
+1005,OTHER,Notonecta irrorata,1007
+1006,OTHER,Oecetis testacea group,1008
+1007,OTHER,Osphranticum labronectum,1009
+1008,OTHER,Oulimnius nitidulus,1010
+1009,OTHER,Palmacorixa buenoi,1011
+1010,OTHER,Parapoynx,1012
+1011,LEAST WANTED,Paratanytarsus longistilus,1013
+1012,LEAST WANTED,Physella,1014
+1013,LEAST WANTED,Polypedilum fallax,1015
+1560,LEAST WANTED,Polypedilum fallax gr.,1015
+1014,LEAST WANTED,Potthastia gaedii,1016
+1561,LEAST WANTED,Potthastia gaedii gr.,1016
+1015,OTHER,Procambarus,1017
+1016,LEAST WANTED,Procladius (Holotanypus),1018
+1017,LEAST WANTED,Psectrocladius (Psectrocladius),1019
+1018,OTHER,Psilotreta frontalis,1020
+1019,MOST WANTED,Pteronarcys biloba,1021
+1020,MOST WANTED,Pteronarcys proteus,1022
+1021,OTHER,Ranatra nigra,1023
+1022,LEAST WANTED,Rheocricotopus robacki,1024
+1023,LEAST WANTED,Rheosmittia arcuata,1025
+1024,LEAST WANTED,Rheotanytarsus pellucidus,1026
+1562,LEAST WANTED,Rheotanytarsus pellucidus gr.,1026
+1025,MOST WANTED,Rhyacophila nigrita complex,1027
+1026,LEAST WANTED,Rissooidea,1028
+1027,OTHER,Sigara dolabra,1029
+1028,LEAST WANTED,Simulium (Eusimulium),1030
+1029,LEAST WANTED,Simulium fibrinflatum,1031
+1030,LEAST WANTED,Simulium jenningsi group,1032
+1031,LEAST WANTED,Simulium tuberosum complex,1033
+1032,LEAST WANTED,Stempellinella fimbriata,1034
+1033,LEAST WANTED,Stilocladius clinopecten,1035
+1034,LEAST WANTED,Stylommatophora,1036
+1035,LEAST WANTED,Succinea,1037
+1036,LEAST WANTED,Synorthocladius semivirens,1038
+1037,LEAST WANTED,Synurella chamberlaini,1039
+1038,LEAST WANTED,Tanytarsus sp. M (Epler 2001),1040
+1039,MODERATELY WANTED,Teloganopsis deficiens,1041
+1040,OTHER,Tipula (Nippotipula),1042
+1041,OTHER,Tipula (Savtshenkia),1043
+1042,OTHER,Tipula (Yamatotipula),1044
+1043,OTHER,Trepaxonemata,1045
+1044,OTHER,Trichocorixa borealis,1046
+1045,LEAST WANTED,Tubificinae,1047
+1046,LEAST WANTED,Tvetenia tshernovskii,1048
+1047,LEAST WANTED,Zavrelimyia (Zavrelimyia),1049
+1048,MOST WANTED,Drunella tuberculata,1050
+1049,LEAST WANTED,Psectrotanypus,1051
+1050,LEAST WANTED,Kiefferulus,1052
+1051,LEAST WANTED,Spirosperma ferox,1053
+1052,MOST WANTED,Epeorus vitreus,1054
+1053,MOST WANTED,Pteronarcys biloba,1055
+1054,LEAST WANTED,Cladopelma,1056
+1055,LEAST WANTED,Endochironomus subtendens,1057
+1056,OTHER,Acanthocyclops vernalis,1113
+1057,OTHER,Caenis Hilaris group,1114
+1058,OTHER,Caenis latipennis,1115
+1059,MODERATELY WANTED,Calopteryx aequabilis,1116
+1060,LEAST WANTED,Cochlicopa,1117
+1061,MODERATELY WANTED,Cordulegaster erronea,1118
+1062,OTHER,Cryptophagidae,1119
+1063,OTHER,Culex,1120
+1064,OTHER,Curculionidae,1121
+1065,OTHER,Daphniidae,1122
+1066,OTHER,Dicyrtomidae,1123
+1067,LEAST WANTED,Discus,1124
+1068,OTHER,Dubiraphia minima,1125
+1069,OTHER,Dubiraphia quadrinotata,1126
+1070,OTHER,Elophila,1127
+1071,OTHER,Entomobryidae,1128
+1072,MODERATELY WANTED,Epitheca princeps,1129
+1073,OTHER,Frenesia difficilis,1130
+1074,OTHER,Heterocloeon frivolum,1131
+1075,MODERATELY WANTED,Hydropsyche placoda,1132
+1076,OTHER,Hydrozoa,1133
+1077,OTHER,Hygrobatidae,1134
+1078,OTHER,Limnephiloidea,1135
+1079,MODERATELY WANTED,Maccaffertium luteum,1136
+1080,OTHER,Mesovelia,1137
+1081,MOST WANTED,Micrasema sprulesi,1138
+1082,OTHER,Molanna blenda,1139
+1083,OTHER,Monatractides,1140
+1084,OTHER,Neoleptophlebia,1141
+1085,OTHER,Neoleptophlebia adoptiva,1142
+1086,OTHER,Neophylax fuscus,1143
+1087,OTHER,Neoplea striola,1144
+1088,OTHER,Neoporus clypealis,1145
+1089,OTHER,Oecetis avara group,1146
+1090,OTHER,Optioservus elegans,1147
+1091,OTHER,Optioservus Elegans group,1148
+1092,OTHER,Optioservus tardellus,1149
+1093,OTHER,Oribatida,1150
+1094,OTHER,Palmacorixa nana,1151
+1095,LEAST WANTED,Physella acuta,1152
+1096,OTHER,Plectrocnemia,1153
+1097,OTHER,Protzia,1154
+1098,OTHER,Psilotreta labida,1155
+1099,OTHER,Sciaridae,1156
+1100,OTHER,Sigara modesta,1157
+1101,OTHER,Simocephalus,1158
+1102,LEAST WANTED,Simulium ubiquitum,1159
+1103,LEAST WANTED,Stagnicola elodes,1160
+1104,OTHER,Staphylinidae,1161
+1105,OTHER,Stenelmis sandersoni,1162
+1106,LEAST WANTED,Stylodrilus,1163
+1107,OTHER,Trepobates,1164
+1108,OTHER,Trichocorixa calva,1165
+1109,LEAST WANTED,Vitrinidae,1166
+1110,LEAST WANTED,Viviparidae,1167
+,OTHER,Baetis bicaudatus,1226
+,MODERATELY WANTED,Cordulegaster obliqua,1227
+,MODERATELY WANTED,Corydalus,
+,MOST WANTED,Remenus,
+,OTHER,Helocombus,
+,OTHER,Protoplasa,
+,OTHER,Iswaeon,
+,MOST WANTED,Malirekus,
+,MOST WANTED,Amiocentrus aspilus,
+,OTHER,Hydra,
+,MOST WANTED,Peltoperla ,
+,OTHER,Limnocharidae,
+,MOST WANTED,Strophopteryx,

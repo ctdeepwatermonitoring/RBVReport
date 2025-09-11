@@ -12,7 +12,7 @@ output:
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 
-### Multiple Files are need to be updated to run this script, most are made in the RBV Matrix Script, but may need to be edited/ reformatted ###
+### Multiple Files need to be updated to run this script, most are made in the RBV Metrics Script, but may need to be edited/ reformatted ###
 # 1. Latest csv file of awx stations, can just copy the one used in the metrics script
 # 2. Summarystats.csv: this is the summary stats over the years and is calculated in metrics script, double check these stats for accuracy (especially with # of waterbodies, r can only count unique waterbody names/ can't take added detail into account)
 # 3. Presence_absence_report.xlsx: this also needs to be manually updated using PresentAbsent_Reformat file, only requires some reformatting that is easier to do in excel
@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 # 9. RBV_MostWantedBySite_2024.csv: This is directly from the metrics script, just has to be copied to report folder 
 # 10. New photos using a combination of submitted photos from survey123 form and photos found here: M:\Volunteer Monitoring\RBV PROGRAM\Photographs
 
-##Other tasks##
+## Other tasks ##
 # read and edit paragraphs written in report 
 # determine new waterbody segments for the "RBV impact" section, in the map section of this report there is a "Sites_AssessedRivers" file that is created that matches RBV sampling location segments with existing assessed segments, then subsets into only 4+ taxa sites, the sites without a match can then be manually checked using the mapping application to see if they have really not been assessed. 
 

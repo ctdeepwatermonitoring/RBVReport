@@ -94,11 +94,11 @@ knitr::kable(groups, col.names = gsub("[.]", " ", names(groups)), table.attr = "
 <p class = "caption">Saugatuck River, Weston. <br> Photo courtesy of Harbor Watch. </p>
 </div>
 
-### Welcome New Groups!
+### Welcome New Coordinators!
 
-The RBV Program is excited to welcome two new groups, **Harbor Watch** and **The Maritime Aquarium**!
+The RBV Program is excited to welcome new program partners! We welcomed new coordinators from **Harbor Watch**, **The Maritime Aquarium** and **Vernon Conservation Commission!**
 
-Both groups received training and conducted samples in 2024 and we are happy to welcome them to the program! These partnerships are very beneficial in expanding the program reach to new waterbodies across CT. Thank you to our new and existing partners! 
+The new coordinators received training and conducted samples in 2024 and we are happy to welcome them to the program! These partnerships are very beneficial in expanding the program reach to new waterbodies across CT. Thank you to our new and existing partners! 
 
 </div>
 
@@ -106,7 +106,7 @@ Both groups received training and conducted samples in 2024 and we are happy to 
 
 ## 2024 Monitoring Results
 
-The 2024 RBV monitoring program faced numerous challenges, including CT DEEP staffing changes and severe flooding in parts of the state followed by abnormally dry conditions which resulted in variable stream flows. Despite these unpredictable sampling conditions, the program continued to have a positive impact and contributed meaningful data to the Department of Energy and Environmental Protection.  
+The 2024 RBV monitoring program faced numerous challenges, including CT DEEP staffing changes and severe flooding in parts of the state followed by abnormally dry conditions which resulted in variable stream flows. Despite these unpredictable sampling conditions, the program continued to have a positive impact and contributed meaningful water quality data.  
 
 RBV volunteers collected **62** vouchers from **54** unique locations on **45** different waterbodies. **35 (56%)** of the 2024 monitoring vouchers had 4 or more taxa types in the ‘most wanted’ category, indicating that these stream segments are among Connecticut’s healthiest streams.   
 

@@ -89,14 +89,14 @@ knitr::kable(groups, col.names = gsub("[.]", " ", names(groups)), table.attr = "
 
 <div class = "section">
 
-<div style="float: left; margin-right: 15px; margin-top: 20px;">
-<img src="reportphoto3.jpg" style="width: 200px;">
+<div style="float: left; margin-right: 15px; margin-top: 30px;">
+<img src="reportphoto3.jpg" style="width: 225px;">
 <p class = "caption">Saugatuck River, Weston. <br> Photo courtesy of Harbor Watch. </p>
 </div>
 
 ### Welcome New Coordinators!
 
-The RBV Program is excited to welcome new program partners! We welcomed new coordinators from **Harbor Watch**, **The Maritime Aquarium** and **Vernon Conservation Commission!**
+The RBV Program is excited to welcome new program partners! We welcomed new coordinators from **Harbor Watch**, **The Maritime Aquarium**, **Vernon Conservation Commission**, **Greenwich Inland Wetlands & Watercourses Agency** and **The Last Green Valley!** 
 
 The new coordinators received training and conducted samples in 2024 and we are happy to welcome them to the program! These partnerships are very beneficial in expanding the program reach to new waterbodies across CT. Thank you to our new and existing partners! 
 

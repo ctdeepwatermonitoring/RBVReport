@@ -233,14 +233,27 @@ summarybysite$Station.ID <- as.character(summarybysite$Station.ID)
 summarybysite$RBV_most_wanted_count <- as.character(summarybysite$RBV_most_wanted_count)
 colnames(summarybysite) <- c("Waterbody Name", "Station ID", "Group Code", "Date Collected", "Most Wanted Count")
 
+### Adding footnote for samples collected outside the QAPP, change year on date range!
+startdate <- as.Date("2024-09-01")
+enddate <- as.Date("2024-11-30")
+summarybysite$Date<- as.Date(summarybysite$`Date Collected`, format = "%m/%d/%Y")
+
+summarybysite <- summarybysite %>%
+  mutate(footnote = ifelse(Date < startdate | Date > enddate, "*", ""))
+summarybysite$`Waterbody Name` <- paste0(summarybysite$footnote, summarybysite$`Waterbody Name`)
+summarybysite$footnote <- NULL
+summarybysite$Date <- NULL
+
 ##Will have to change the number of sites (62)
 datatable(head(summarybysite, 62), colnames = gsub("[.]", " ", names(summarybysite)), options = list(
   pageLength = 10, lengthChange = FALSE,
   lengthMenu = c(20)
 ))
 ```
+<div class="caption">
+*Data collected outside the sampling date range specified in the [QAPP](https://portal.ct.gov/-/media/deep/water/volunteer_monitoring/rbv/rbv-qapp2021.pdf?rev=8290983c9bfe453ab2f43171732fdda9&hash=57AF5564642C5FA188347B503596638F) (September 1st-November 30th).
+</div>
 
-<br>
 
 ![](reportphoto5.png)
 

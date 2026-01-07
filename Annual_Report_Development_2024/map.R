@@ -2,6 +2,7 @@ setwd("P:/RBVReport-main/Annual_Report_Development_2024")
 
 library(dplyr)
 library(leaflet)
+library(leaflet.extras)
 library(sf)
 library(htmltools)
 
@@ -80,6 +81,22 @@ leaflet(options = leafletOptions(minZoom = 8, maxZoom = 16)) %>%
     baseGroups = c('Esri GrayCanvas (default)', 'Open Street Map', 'World Imagery'),
     overlayGroups = c('Sites with 3 or less MW', 'Sites with 4+ MW', 'Rivers'),
     options = layersControlOptions(collapsed = FALSE)
+  ) %>%  
+  addMarkers(
+    data = data, lng = ~xlong, lat = ~ylat, label = data$WaterbodyName.x,
+    group = data$WaterbodyName.x,
+    icon = makeIcon( 
+      iconUrl = "http://leafletjs.com/examples/custom-icons/leaf-green.png",
+      iconWidth = 1, iconHeight = 1
+    )
+  ) %>%
+  addSearchFeatures(
+    targetGroups = data$WaterbodyName.x, # group should match addMarkers() group
+    options = searchFeaturesOptions(
+      zoom=18, openPopup = TRUE, firstTipSubmit = TRUE,
+      autoCollapse = TRUE, hideMarkerOnCollapse = TRUE,
+      textPlaceholder = "Search by Waterbody Name..."
+    )
   )
 
 # ```{r pabysite, echo=FALSE, out.width="100%"}

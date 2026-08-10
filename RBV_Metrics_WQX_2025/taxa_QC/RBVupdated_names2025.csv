@@ -1,0 +1,6 @@
+Name,WQX Updated Name ,ITIS Link ,Notes
+Collembola,Collembola (Collembola),,valid with order name included 
+Oligochaeta,Clitellata,https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=914193#null,
+Promoresia elegans,Heterlimnius elegans,https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114230#null,"WQX domain table says ""Promoresia elegans***retired***use Optioservus elegans"", but ITIS says Optioservus elegans is invalid and to use Heterlimnius elegans"
+Promoresia tardella,Heterlimnius tardellus,https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=114231#null,"WQX domain table says ""Promoresia tardella***retired***use Optioservus tardellus"", but ITIS says Optioservus tardellus is invalid and to use Heterlimnius tardellus"
+Turbellaria,Platyhelminthes,https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=53964#null,

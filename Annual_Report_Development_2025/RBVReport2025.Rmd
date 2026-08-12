@@ -303,7 +303,8 @@ datatable(head(summarybysite, 63), colnames = gsub("[.]", " ", names(summarybysi
 ))
 ```
 <div class="caption">
-*Data collected outside the sampling date range specified in the [QAPP](https://portal.ct.gov/-/media/deep/water/volunteer_monitoring/rbv/rbv-qapp2021.pdf?rev=8290983c9bfe453ab2f43171732fdda9&hash=57AF5564642C5FA188347B503596638F) (September 1st-November 30th).
+*Data collected outside the sampling date range specified in the [QAPP](https://portal.ct.gov/-/media/deep/water/volunteer_monitoring/rbv/rbv-qapp2021.pdf?rev=8290983c9bfe453ab2f43171732fdda9&hash=57AF5564642C5FA188347B503596638F) (September 1st-November 30th).<br>
+Data collected by Bolton Conservation Commission for Baker Brook & French Brook will be available in 2027, this report will be updated to reflect the results of those samples when the data is available. 
 </div>
 
 

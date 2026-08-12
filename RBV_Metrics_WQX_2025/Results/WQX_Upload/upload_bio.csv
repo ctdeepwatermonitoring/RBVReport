@@ -64,9 +64,9 @@ Monitoring Location ID,Activity ID,Activity Start Date,Analysis Start Date,Subje
 16657,2025035_BioResults,10/17/2025,10/17/2025,Helichus basalis,Spheros Environmental,Not Categorized - Other Taxa
 18409,2025011_BioResults,10/23/2025,10/23/2025,Synurella,Spheros Environmental,Least Wanted Taxa
 19455,2025025_BioResults,10/23/2025,10/23/2025,Synurella,Spheros Environmental,Least Wanted Taxa
-15314,2025048_BioResults,10/17/2025,10/17/2025,Heterlimnius tardellus,Spheros Environmental,Not Categorized - Other Taxa
-21120,2025037_BioResults,10/26/2025,10/26/2025,Heterlimnius tardellus,Spheros Environmental,Not Categorized - Other Taxa
-21121,2025036_BioResults,10/29/2025,10/29/2025,Heterlimnius tardellus,Spheros Environmental,Not Categorized - Other Taxa
+15314,2025048_BioResults,10/17/2025,10/17/2025,Heterlimnius,Spheros Environmental,Not Categorized - Other Taxa
+21120,2025037_BioResults,10/26/2025,10/26/2025,Heterlimnius,Spheros Environmental,Not Categorized - Other Taxa
+21121,2025036_BioResults,10/29/2025,10/29/2025,Heterlimnius,Spheros Environmental,Not Categorized - Other Taxa
 15312,2025050_BioResults,10/24/2025,10/24/2025,Plecoptera,Spheros Environmental,MOST Wanted Taxa
 21117,2025024_BioResults,10/29/2025,10/29/2025,Capniidae,Spheros Environmental,MOST Wanted Taxa
 20314,2025013_BioResults,11/8/2025,11/8/2025,Capniidae,Spheros Environmental,MOST Wanted Taxa
@@ -385,8 +385,8 @@ Monitoring Location ID,Activity ID,Activity Start Date,Analysis Start Date,Subje
 15312,2025041_BioResults,4/25/2025,4/25/2025,Oulimnius,Spheros Environmental,Not Categorized - Other Taxa
 15312,2025050_BioResults,10/24/2025,10/24/2025,Oulimnius,Spheros Environmental,Not Categorized - Other Taxa
 20884,2025056_BioResults,3/28/2025,3/28/2025,Oulimnius,Spheros Environmental,Not Categorized - Other Taxa
-15314,2025045_BioResults,3/28/2025,3/28/2025,Heterlimnius elegans,Spheros Environmental,Not Categorized - Other Taxa
-19458,2025049_BioResults,10/24/2025,10/24/2025,Heterlimnius elegans,Spheros Environmental,Not Categorized - Other Taxa
+15314,2025045_BioResults,3/28/2025,3/28/2025,Heterlimnius,Spheros Environmental,Not Categorized - Other Taxa
+19458,2025049_BioResults,10/24/2025,10/24/2025,Heterlimnius,Spheros Environmental,Not Categorized - Other Taxa
 16333,2025020_BioResults,9/20/2025,9/20/2025,Stenelmis,Spheros Environmental,Not Categorized - Other Taxa
 18390,2025003_BioResults,11/17/2025,11/17/2025,Stenelmis,Spheros Environmental,Not Categorized - Other Taxa
 20314,2025013_BioResults,11/8/2025,11/8/2025,Stenelmis,Spheros Environmental,Not Categorized - Other Taxa

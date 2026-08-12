@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 
 ### Multiple Files need to be updated to run this script, most are made in the RBV Metrics Script, but may need to be edited/ reformatted ###
 
+## for 2026 Thank PRWC for their 20th year of consecuative sampling! Include image of bug cake!
+
 # 1. Summarystats2025.csv: this is the summary stats over the years and is calculated in metrics script, double check these stats for accuracy (especially with # of waterbodies, r can only count unique waterbody names/ can't take added detail into account)
 # 2. Presence_absence_report2025.xlsx: this also needs to be manually updated using PresentAbsent_Reformat file, only requires some reformatting that is easier to do in excel
 # 3. groups.csv: this also has to be manually created using the groups.csv made from RBV Metrics script, just to add the coordinators and reformat the file 
@@ -63,7 +65,7 @@ In 1999, the MAP developed a citizen science program, called the [Riffle Bioasse
 
 ![](Photo2.png)
 
-<div class = "caption">Above: Various 2025 RBV sampling locations. Volunteer group photo credits listed in the bottom left corner of each image.
+<div class = "caption">Above: Various 2025 RBV sampling locations (Left: Fenton River, Mansfield, Middle: Carmel Hill Brook, Woodbury, Right: Fawn Brook, Marlborough). Photos courtesy of The Last Green Valley, Pomperaug River Watershed Coalition & Salmon River Watershed Partnership.
 </div>
 
 <hr>
@@ -78,7 +80,7 @@ Because it is a screening approach and not a more in-depth assessment methodolog
 
 ![](Photo4.png)
 
-<div class = "caption">Above: Volunteers from Pomperaug River Watershed Coalition and The Last Green Valley collecting macroinvertebrate samples. </div>
+<div class = "caption">Above: Volunteers from Pomperaug River Watershed Coalition (Left & Right) and The Last Green Valley (Middle) collecting macroinvertebrate samples. Photos courtesy of Pomperaug River Watershed Coalition and The Last Green Valley. </div>
 
 <hr>
 
@@ -89,8 +91,7 @@ Local RBV Programs ensure that the statewide RBV program is a success each year.
 
 ```{r groups, echo=FALSE}
 groups <- read.csv("groups2025.csv", header = TRUE, encoding = "latin1") #this needs to be manually updated with new groups
-
-knitr::kable(groups, col.names = gsub("[.]", " ", names(groups)), table.attr = "class=\"striped\"", format = "html")
+knitr::kable(groups, col.names = gsub("[.]", " ", names(groups)), table.attr = "class=\"striped\"", format = "html") 
 ```
 <p></p>
 
@@ -131,7 +132,7 @@ knitr::kable(summary, table.attr = 'class="striped"', format = "html", align = c
 
 ![](Photo3.png)
 
-<div class = "caption"> Above: Volunteers from Three Rivers Community College, Pomperaug River Watershed Coalition and Vernon Conservation Commission sorting macroinvertebrate samples. </div>
+<div class = "caption"> Above: Volunteers from Three Rivers Community College (Left), Pomperaug River Watershed Coalition (Middle) and Vernon Conservation Commission (Right) sorting macroinvertebrate samples. Photos courtesy of Three Rivers Community College, Pomperaug River Watershed Coalition and Vernon Conservation Commission. </div>
 
 ### 2025 Results Map
 
@@ -287,7 +288,7 @@ colnames(summarybysite) <- c("Waterbody Name", "Station ID", "Group Code", "Date
 ### Adding footnote for samples collected outside the QAPP, change year on date range!
 startdate <- as.Date("2025-09-01")
 enddate <- as.Date("2025-11-30")
-summarybysite$Date<- as.Date(summarybysite$`Date Collected`, format = "%Y-%m-%d")
+summarybysite$Date<- as.Date(summarybysite$`Date Collected`, format = "%m/%d/%Y")
 
 summarybysite <- summarybysite %>%
   mutate(footnote = ifelse(Date < startdate | Date > enddate, "*", ""))
@@ -308,7 +309,7 @@ datatable(head(summarybysite, 63), colnames = gsub("[.]", " ", names(summarybysi
 
 ![](Photo5.png)
 
-<div class = "caption">Above: Volunteers from Pomperaug River Watershed Coalition and Vernon Conservation Commission collecting samples. </div>
+<div class = "caption">Above: Volunteers from Pomperaug River Watershed Coalition and Vernon Conservation Commission collecting samples. Photos courtesy of Pomperaug River Watershed Coalition and Vernon Conservation Commission. </div>
 
 <hr>
 
@@ -364,7 +365,7 @@ More information is needed to determine the water quality at this site.  Reasons
 
 ## 2025 RBV Data Impact
 
-The 2025 RBV results will be consolidated into the 2028 [Integrated Water Quality Report](https://portal.ct.gov/deep/water/water-quality/water-quality-305b-report-to-congress).  A ‘healthy’ river or stream is one that fully supports a variety of uses, including aquatic life use.   
+The 2025 RBV results will be consolidated into a future [Integrated Water Quality Report](https://portal.ct.gov/deep/water/water-quality/water-quality-305b-report-to-congress).  A ‘healthy’ river or stream is one that fully supports a variety of uses, including aquatic life use.   
 
 In 2025, RBV volunteers monitored 54 waterbodies in Connecticut.  Based on the results reported in the previous section, RBV data is likely to generate **7 new listings** of Connecticut waterbodies that fully support aquatic life use: 
 
@@ -380,14 +381,14 @@ In 2025, RBV volunteers monitored 54 waterbodies in Connecticut.  Based on the r
 
 6. Fraser Brook (Salem)
 
-7. NNT to Eightmile River (East Haddem)
+7. NNT to Eightmile River (East Haddam)
 
 In addition, the 2025 RBV data will allow DEEP to propose maintaining **30 existing waterbodies** that fully support aquatic life use.
 <br>
 
 ![](Photo6.png)
 
-<div class = "caption">Above: Various photos taken during the 2025 RBV sampling season by CT DEEP, Greenwich Inland Wetlands & Watercourses Agency and Eightmile River Wild and Scenic Watershed. </div>
+<div class = "caption">Above: Various photos taken during the 2025 RBV sampling season. Photos courtesy of CT DEEP, Greenwich Inland Wetlands & Watercourses Agency and Eightmile River Wild and Scenic Watershed. </div>
 
 <hr>
 
